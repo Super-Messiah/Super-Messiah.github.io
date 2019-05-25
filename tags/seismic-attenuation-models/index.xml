@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seismic attenuation models on Yufeng Wang</title>
+    <link>https://super-messiah.github.io/tags/seismic-attenuation-models/</link>
+    <description>Recent content in Seismic attenuation models on Yufeng Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 - {year} Yufeng Wang</copyright>
+    <lastBuildDate>Sun, 29 Apr 2018 21:03:21 +0800</lastBuildDate>
+    
+	<atom:link href="https://super-messiah.github.io/tags/seismic-attenuation-models/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Seismic attenuation models</title>
+      <link>https://super-messiah.github.io/project/seismic-attenuation-models/</link>
+      <pubDate>Sun, 29 Apr 2018 21:03:21 +0800</pubDate>
+      
+      <guid>https://super-messiah.github.io/project/seismic-attenuation-models/</guid>
+      <description>Frequency-dependent absorption and dispersion caused by the anelasticity of subsurface media can be empirically characterized either by experimentally established frequency power law or by physically based mechanical models over a wide range of frequencies. I try to figure out the connections among different attenuation models from both mathematical and physical viewpoints.</description>
+    </item>
+    
+  </channel>
+</rss>

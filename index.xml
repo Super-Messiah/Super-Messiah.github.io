@@ -1,0 +1,1349 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yufeng Wang</title>
+    <link>https://super-messiah.github.io/</link>
+    <description>Recent content on Yufeng Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 - {year} Yufeng Wang</copyright>
+    <lastBuildDate>Thu, 16 May 2019 09:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://super-messiah.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Seismic attenuation models</title>
+      <link>https://super-messiah.github.io/project/seismic-attenuation-models/</link>
+      <pubDate>Sun, 29 Apr 2018 21:03:21 +0800</pubDate>
+      
+      <guid>https://super-messiah.github.io/project/seismic-attenuation-models/</guid>
+      <description>
+
+&lt;p&gt;Wave propagation in subsurface media typically exhibits frequency-dependent absorption and dispersion due to the presence of attenuation mechanism. Such an intrinsic attenuation property can be empirically characterized either by ex- perimentally established frequency power law or by physically based mechanical models over a wide range of frequencies. Recently, increasing papers present a variety of fractional models that have the ability to describe seismic attenuation with memory property or non-locality.&lt;/p&gt;
+
+&lt;h2 id=&#34;mathematical-and-mechanical-characterizations&#34;&gt;Mathematical and Mechanical characterizations&lt;/h2&gt;
+
+&lt;h2 id=&#34;multiple-and-fractional-generalizations&#34;&gt;Multiple and Fractional generalizations&lt;/h2&gt;
+
+&lt;h2 id=&#34;constant-q-model-and-its-approximations&#34;&gt;Constant-$Q$ model and its approximations&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seismic $Q$ compensation</title>
+      <link>https://super-messiah.github.io/project/seismic-q-compensation/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://super-messiah.github.io/project/seismic-q-compensation/</guid>
+      <description>
+
+&lt;p&gt;When seismic waves travel through the earth subsurface, the absorption and dispersion caused by the anelasticity of the subsurface will inevitably degrade the quality of seismograms, decrease the resolution of migrated images, and eventually affect the reliability of seismic interpretation.  It is essential to compensate amplitude loss and phase distortion. In general, attenuation compensation in geophysics can be roughly classified into two categories: seismic record-based compensation and propagation-based compensation.&lt;/p&gt;
+
+&lt;h2 id=&#34;l-1-2-minimization&#34;&gt;$L_{1-2}$ minimization&lt;/h2&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;3Dfielddata.png&#34; alt=&#34;**a)** Original attenuated data. **b)** The compensated data using our proposed $L_{1−2}$ minimization.&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Seismic attenuation compensation via $L_{1-2}$ minimization inversion scheme on 3-D field data.&lt;/h4&gt;
+  &lt;p&gt;
+    &lt;strong&gt;a)&lt;/strong&gt; Original attenuated data. &lt;strong&gt;b)&lt;/strong&gt; The compensated data using our proposed $L_{1−2}$ minimization.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;adaptive-stabilization&#34;&gt;Adaptive stabilization&lt;/h2&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;propagators.png&#34; alt=&#34;**a)** The compensated time propagator without stabilization. **b)** The stabilized time propagator using low-pass Tukey filtering method. **c)** The stabilized time propagator using our proposed adaptive stabilization scheme.&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;The compensated time propagator and stabilized time propagators, we clip the same amplitude value for these three figures.&lt;/h4&gt;
+  &lt;p&gt;
+    &lt;strong&gt;a)&lt;/strong&gt; The compensated time propagator without stabilization. &lt;strong&gt;b)&lt;/strong&gt; The stabilized time propagator using low-pass Tukey filtering method. &lt;strong&gt;c)&lt;/strong&gt; The stabilized time propagator using our proposed adaptive stabilization scheme.
+    
+    
+    
+  &lt;/p&gt; 
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>High-performance computing</title>
+      <link>https://super-messiah.github.io/project/high-performance-computing/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://super-messiah.github.io/project/high-performance-computing/</guid>
+      <description>
+
+&lt;h2 id=&#34;cu-q-rtm&#34;&gt;cu$Q$-RTM&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seismic signal processing</title>
+      <link>https://super-messiah.github.io/project/seismic-signal-processing/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://super-messiah.github.io/project/seismic-signal-processing/</guid>
+      <description>
+
+&lt;h2 id=&#34;tops&#34;&gt;TOPS&lt;/h2&gt;
+
+&lt;p&gt;The proximal splitting algorithm, which reduces complex convex optimization problems into a series of smaller subproblems and spreads the projection operator onto a convex set into the proximity operator of a convex function, has recently been introduced in the area of signal processing. Following the splitting framework, we propose a novel three-operator proximal splitting (TOPS) algorithm for 3-D seismic data reconstruction with both singular value decomposition (SVD)-based low-rank constraint and curvelet-domain sparsity constraint.&lt;/p&gt;
+
+&lt;h2 id=&#34;l-1-2-minimization&#34;&gt;$L_{1-2}$ minimization&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep learning</title>
+      <link>https://super-messiah.github.io/project/deep-learning/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://super-messiah.github.io/project/deep-learning/</guid>
+      <description>
+
+&lt;p&gt;In the course of analyzing complex geophysical systems, the apeture and density of data acquisition is limited, and we are inevitably faced with the challenge of inverting subsurface properties and imaging subsurface structures under partial information. In this small data regime, the vast majority of state-of-the-art machine learning techniques (e.g., deep/convolutional/recurrent neural networks) are lacking robustness and fail to provide any guarantees of convergence. In this project, I apply &lt;a href=&#34;https://maziarraissi.github.io/research/1_physics_informed_neural_networks/&#34; target=&#34;_blank&#34;&gt;physics informed neural networks (PINNs)&lt;/a&gt; that are trained to solve supervised learning tasks while respecting any given law of physics described by general nonlinear partial differential equations (PDEs) to seismic modeling, inversion and imaging.&lt;/p&gt;
+
+&lt;h2 id=&#34;physics-informed-neural-networks&#34;&gt;Physics informed neural networks&lt;/h2&gt;
+
+&lt;p&gt;The recently proposed &lt;a href=&#34;https://maziarraissi.github.io/research/1_physics_informed_neural_networks/&#34; target=&#34;_blank&#34;&gt;physics informed neural networks (PINNs)&lt;/a&gt;, which are trained to solve supervised machine learning tasks while respecting the given law of physics, sheds a light on full wave simulation that is free of numerical instability and artifical boundary.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://super-messiah.github.io/post/test/</link>
+      <pubDate>Thu, 16 May 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://super-messiah.github.io/post/test/</guid>
+      <description>
+
+&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.dam.brown.edu/people/mraissi/&#34; target=&#34;_blank&#34;&gt;Maziar Raissi&lt;/a&gt;, &lt;a href=&#34;https://www.seas.upenn.edu/directory/profile.php?ID=237&#34; target=&#34;_blank&#34;&gt;Paris Perdikaris&lt;/a&gt;, and &lt;a href=&#34;https://www.brown.edu/research/projects/crunch/george-karniadakis&#34; target=&#34;_blank&#34;&gt;George Em Karniadakis&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;We introduce physics informed neural networks &amp;ndash; neural networks that are trained to solve supervised learning tasks while respecting any given law of physics described by general nonlinear &lt;a href=&#34;https://en.wikipedia.org/wiki/Partial_differential_equation&#34; target=&#34;_blank&#34;&gt;partial differential equations&lt;/a&gt;. We present our developments in the context of solving two main classes of problems: &lt;a href=&#34;https://arxiv.org/abs/1711.10561&#34; target=&#34;_blank&#34;&gt;data-driven solution&lt;/a&gt; and &lt;a href=&#34;https://arxiv.org/abs/1711.10566&#34; target=&#34;_blank&#34;&gt;data-driven discovery&lt;/a&gt; of partial differential equations. Depending on the nature and arrangement of the available data, we devise two distinct classes of algorithms, namely continuous time and discrete time models. The resulting neural networks form a new class of data-efficient universal function approximators that naturally encode any underlying physical laws as prior information. In the first part, we demonstrate how these networks can be used to &lt;a href=&#34;https://arxiv.org/abs/1703.10230&#34; target=&#34;_blank&#34;&gt;infer solutions to partial differential equations&lt;/a&gt;, and obtain physics-informed surrogate models that are fully differentiable with respect to all input coordinates and free parameters. In the second part, we focus on the problem of &lt;a href=&#34;https://arxiv.org/abs/1708.00588&#34; target=&#34;_blank&#34;&gt;data-driven discovery of partial differential equations&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;data-driven-solutions-of-nonlinear-partial-differential-equations&#34;&gt;Data-driven Solutions of Nonlinear Partial Differential Equations&lt;/h3&gt;
+
+&lt;p&gt;In this &lt;a href=&#34;https://arxiv.org/abs/1711.10561&#34; target=&#34;_blank&#34;&gt;first part&lt;/a&gt; of our two-part treatise, we focus on computing data-driven solutions to partial differential equations of the general form&lt;/p&gt;
+
+&lt;p&gt;$$
+u_t + \mathcal{N}[u] = 0,\ x \in \Omega, \ t\in[0,T],
+$$&lt;/p&gt;
+
+&lt;p&gt;where $$u(t,x)$$ denotes the latent (hidden) solution, $$\mathcal{N}[\cdot]$$ is a nonlinear differential operator, and $$\Omega$$ is a subset of $$\mathbb{R}^D$$. In what follows, we put forth two distinct classes of algorithms, namely continuous and discrete time models, and highlight their properties and performance through the lens of different benchmark problems. All code and data-sets are available &lt;a href=&#34;https://github.com/maziarraissi/PINNs&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;continuous-time-models&#34;&gt;Continuous Time Models&lt;/h4&gt;
+
+&lt;p&gt;We define $$f(t,x)$$ to be given by&lt;/p&gt;
+
+&lt;p&gt;$$
+f := u_t + \mathcal{N}[u],
+$$&lt;/p&gt;
+
+&lt;p&gt;and proceed by approximating $$u(t,x)$$ by a deep neural network. This assumption results in a &lt;a href=&#34;https://arxiv.org/abs/1711.10561&#34; target=&#34;_blank&#34;&gt;physics informed neural network&lt;/a&gt; $$f(t,x)$$. This network can be derived by the calculus on computational graphs: &lt;a href=&#34;http://colah.github.io/posts/2015-08-Backprop/&#34; target=&#34;_blank&#34;&gt;Backpropagation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example (Burgers&amp;rsquo; Equation)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;As an example, let us consider the &lt;a href=&#34;https://en.wikipedia.org/wiki/Burgers%27_equation&#34; target=&#34;_blank&#34;&gt;Burgers&amp;rsquo; equation&lt;/a&gt;. In one space dimension, the Burger&amp;rsquo;s equation along with &lt;a href=&#34;https://en.wikipedia.org/wiki/Dirichlet_boundary_condition&#34; target=&#34;_blank&#34;&gt;Dirichlet boundary conditions&lt;/a&gt; reads as&lt;/p&gt;
+
+&lt;p&gt;$$
+\begin{array}{l}
+u_t + u u&lt;em&gt;x - (0.01/\pi) u&lt;/em&gt;{xx} = 0,\ \ \ x \in [-1,1],\ \ \ t \in [0,1],&lt;br /&gt;
+u(0,x) = -\sin(\pi x),&lt;br /&gt;
+u(t,-1) = u(t,1) = 0.
+\end{array}
+$$&lt;/p&gt;
+
+&lt;p&gt;Let us define $$f(t,x)$$ to be given by&lt;/p&gt;
+
+&lt;p&gt;$$
+f := u_t + u u&lt;em&gt;x - (0.01/\pi) u&lt;/em&gt;{xx},
+$$&lt;/p&gt;
+
+&lt;p&gt;and proceed by approximating $$u(t,x)$$ by a deep neural network. To highlight the simplicity in implementing this idea let us include a Python code snippet using &lt;a href=&#34;https://www.tensorflow.org&#34; target=&#34;_blank&#34;&gt;Tensorflow&lt;/a&gt;. To this end, $$u(t,x)$$ can be simply defined as&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;def u(t, x):
+    u = neural_net(tf.concat([t,x],1), weights, biases)
+    return u
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Correspondingly, the &lt;a href=&#34;https://arxiv.org/abs/1711.10561&#34; target=&#34;_blank&#34;&gt;physics informed neural network&lt;/a&gt; $$f(t,x)$$ takes the form&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;def f(t, x):
+    u = u(t, x)
+    u_t = tf.gradients(u, t)[0]
+    u_x = tf.gradients(u, x)[0]
+    u_xx = tf.gradients(u_x, x)[0]
+    f = u_t + u*u_x - (0.01/tf.pi)*u_xx
+    return f
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The shared parameters between the neural networks $$u(t,x)$$ and $$f(t,x)$$ can be learned by minimizing the mean squared error loss&lt;/p&gt;
+
+&lt;p&gt;$$
+MSE = MSE_u + MSE_f,
+$$&lt;/p&gt;
+
+&lt;p&gt;where&lt;/p&gt;
+
+&lt;p&gt;$$
+MSE_u = \frac{1}{N&lt;em&gt;u}\sum&lt;/em&gt;{i=1}^{N_u} |u(t^i_u,x_u^i) - u^i|^2,
+$$&lt;/p&gt;
+
+&lt;p&gt;and&lt;/p&gt;
+
+&lt;p&gt;$$
+MSE_f = \frac{1}{N&lt;em&gt;f}\sum&lt;/em&gt;{i=1}^{N_f}|f(t_f^i,x_f^i)|^2.
+$$&lt;/p&gt;
+
+&lt;p&gt;Here, $${t_u^i, x&lt;em&gt;u^i, u^i}&lt;/em&gt;{i=1}^{N_u}$$ denote the initial and boundary training data on $$u(t,x)$$ and $${t_f^i, x&lt;em&gt;f^i}&lt;/em&gt;{i=1}^{N_f}$$ specify the collocations points for $$f(t,x)$$. The loss $$MSE_u$$ corresponds to the initial and boundary data while $$MSE_f$$ enforces the structure imposed by the Burgers&amp;rsquo; equation at a finite set of collocation points.&lt;/p&gt;
+
+&lt;p&gt;The following figure summarizes our results for the data-driven solution of the Burgers&amp;rsquo; equation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.dam.brown.edu/people/mraissi/assets/img/Burgers_CT_inference.png&#34; alt=&#34;&#34; /&gt;
+&amp;gt; &lt;em&gt;Burgers&amp;rsquo; equation:&lt;/em&gt; &lt;strong&gt;Top:&lt;/strong&gt; Predicted solution along with the initial and boundary training data. In addition we are using 10,000 collocation points generated using a Latin Hypercube Sampling strategy. &lt;strong&gt;Bottom:&lt;/strong&gt; Comparison of the predicted and exact solutions corresponding to the three temporal snapshots depicted by the white vertical lines in the top panel. Model training took approximately 60 seconds on a single NVIDIA Titan X GPU card.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example (Shr&amp;ouml;dinger Equation)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This example aims to highlight the ability of our method to handle periodic boundary conditions, complex-valued solutions, as well as different types of nonlinearities in the governing partial differential equations. The &lt;a href=&#34;https://en.wikipedia.org/wiki/Nonlinear_Schrödinger_equation&#34; target=&#34;_blank&#34;&gt;nonlinear Schr&amp;ouml;dinger equation&lt;/a&gt; along with periodic boundary conditions is given by&lt;/p&gt;
+
+&lt;p&gt;$$
+\begin{array}{l}
+i h&lt;em&gt;t + 0.5 h&lt;/em&gt;{xx} + |h|^2 h = 0,\ \ \ x \in [-5, 5],\ \ \ t \in [0, \pi/2],&lt;br /&gt;
+h(0,x) = 2\ \text{sech}(x),&lt;br /&gt;
+h(t,-5) = h(t, 5),&lt;br /&gt;
+h_x(t,-5) = h_x(t, 5),
+\end{array}
+$$&lt;/p&gt;
+
+&lt;p&gt;where $$h(t,x)$$ is the complex-valued solution. Let us define $$f(t,x)$$ to be given by&lt;/p&gt;
+
+&lt;p&gt;$$
+f := i h&lt;em&gt;t + 0.5 h&lt;/em&gt;{xx} + |h|^2 h,
+$$&lt;/p&gt;
+
+&lt;p&gt;and proceed by placing a complex-valued neural network prior on $$h(t,x)$$. In fact, if $$u$$ denotes the real part of $$h$$ and $$v$$ is the imaginary part, we are placing a multi-out neural network prior on $$h(t,x) = \begin{bmatrix}
+u(t,x) &amp;amp; v(t,x)
+\end{bmatrix}$$. This will result in the complex-valued (multi-output) &lt;a href=&#34;https://arxiv.org/abs/1711.10561&#34; target=&#34;_blank&#34;&gt;physic informed neural network&lt;/a&gt; $$f(t,x)$$. The shared parameters of the neural networks $$h(t,x)$$ and $$f(t,x)$$ can be learned by minimizing the mean squared error loss&lt;/p&gt;
+
+&lt;p&gt;$$
+MSE = MSE_0 + MSE_b + MSE_f,
+$$&lt;/p&gt;
+
+&lt;p&gt;where&lt;/p&gt;
+
+&lt;p&gt;$$
+MSE_0 = \frac{1}{N&lt;em&gt;0}\sum&lt;/em&gt;{i=1}^{N_0} |h(0,x_0^i) - h^i_0|^2,
+$$&lt;/p&gt;
+
+&lt;p&gt;$$
+MSE_b = \frac{1}{N&lt;em&gt;b}\sum&lt;/em&gt;{i=1}^{N_b} \left(|h^i(t^i_b,-5) - h^i(t^i_b,5)|^2 + |h^i_x(t^i_b,-5) - h^i_x(t^i_b,5)|^2\right),
+$$&lt;/p&gt;
+
+&lt;p&gt;and&lt;/p&gt;
+
+&lt;p&gt;$$
+MSE_f = \frac{1}{N&lt;em&gt;f}\sum&lt;/em&gt;{i=1}^{N_f}|f(t_f^i,x_f^i)|^2.
+$$&lt;/p&gt;
+
+&lt;p&gt;Here, $${x_0^i, h^i&lt;em&gt;0}&lt;/em&gt;{i=1}^{N_0}$$ denotes the initial data, $${t^i&lt;em&gt;b}&lt;/em&gt;{i=1}^{N_b}$$ corresponds to the collocation points on the boundary, and $${t_f^i,x&lt;em&gt;f^i}&lt;/em&gt;{i=1}^{N_f}$$ represents the collocation points on $$f(t,x)$$. Consequently, $$MSE_0$$ corresponds to the loss on the initial data, $$MSE_b$$ enforces the periodic boundary conditions, and $$MSE_f$$ penalizes the Schr&amp;ouml;dinger equation not being satisfied on the collocation points.&lt;/p&gt;
+
+&lt;p&gt;The following figure summarizes the results of our experiment.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.dam.brown.edu/people/mraissi/assets/img/NLS.png&#34; alt=&#34;&#34; /&gt;
+&amp;gt; &lt;em&gt;Shr&amp;ouml;dinger equation:&lt;/em&gt; &lt;strong&gt;Top:&lt;/strong&gt; Predicted solution along with the initial and boundary training data. In addition we are using 20,000 collocation points generated using a Latin Hypercube Sampling strategy. &lt;strong&gt;Bottom:&lt;/strong&gt; Comparison of the predicted and exact solutions corresponding to the three temporal snapshots depicted by the dashed vertical lines in the top panel.&lt;/p&gt;
+
+&lt;p&gt;One potential limitation of the continuous time neural network models considered so far, stems from the need to use a large number of collocation points $$N_f$$ in order to enforce physics informed constraints in the entire spatio-temporal domain. Although this poses no significant issues for problems in one or two spatial dimensions, it may introduce a severe bottleneck in higher dimensional problems, as the total number of collocation points needed to globally enforce a physics informed constrain (i.e., in our case a partial differential equation) will increase exponentially. In the next section, we put forth a different approach that circumvents the need for collocation points by introducing a more structured neural network representation leveraging the classical &lt;a href=&#34;https://en.wikipedia.org/wiki/Runge–Kutta_methods&#34; target=&#34;_blank&#34;&gt;Runge-Kutta&lt;/a&gt; time-stepping schemes.&lt;/p&gt;
+
+&lt;h4 id=&#34;discrete-time-models&#34;&gt;Discrete Time Models&lt;/h4&gt;
+
+&lt;p&gt;Let us employ the general form of &lt;a href=&#34;https://en.wikipedia.org/wiki/Runge–Kutta_methods&#34; target=&#34;_blank&#34;&gt;Runge-Kutta&lt;/a&gt; methods with $$q$$ stages and obtain&lt;/p&gt;
+
+&lt;p&gt;$$
+\begin{array}{ll}
+u^{n+c&lt;em&gt;i} = u^n - \Delta t \sum&lt;/em&gt;{j=1}^q a_{ij} \mathcal{N}[u^{n+c&lt;em&gt;j}], \ \ i=1,\ldots,q,&lt;br /&gt;
+u^{n+1} = u^{n} - \Delta t \sum&lt;/em&gt;{j=1}^q b_j \mathcal{N}[u^{n+c_j}].
+\end{array}
+$$&lt;/p&gt;
+
+&lt;p&gt;Here, $$u^{n+c_j}(x) = u(t^n + c&lt;em&gt;j \Delta t, x)$$ for $$j=1, \ldots, q$$. This general form encapsulates both implicit and explicit time-stepping schemes, depending on the choice of the parameters $${a&lt;/em&gt;{ij},b_j,c_j}$$. The above equations can be equivalently expressed as&lt;/p&gt;
+
+&lt;p&gt;$$
+\begin{array}{ll}
+u^{n} = u^n&lt;em&gt;i, \ \ i=1,\ldots,q,&lt;br /&gt;
+u^n = u^n&lt;/em&gt;{q+1},
+\end{array}
+$$&lt;/p&gt;
+
+&lt;p&gt;where&lt;/p&gt;
+
+&lt;p&gt;$$
+\begin{array}{ll}
+u^n_i := u^{n+c&lt;em&gt;i} + \Delta t \sum&lt;/em&gt;{j=1}^q a_{ij} \mathcal{N}[u^{n+c&lt;em&gt;j}], \ \ i=1,\ldots,q,&lt;br /&gt;
+u^n&lt;/em&gt;{q+1} := u^{n+1} + \Delta t \sum_{j=1}^q b_j \mathcal{N}[u^{n+c_j}].
+\end{array}
+$$&lt;/p&gt;
+
+&lt;p&gt;We proceed by placing a multi-output neural network prior on&lt;/p&gt;
+
+&lt;p&gt;$$
+\begin{bmatrix}
+u^{n+c_1}(x), \ldots, u^{n+c_q}(x), u^{n+1}(x)
+\end{bmatrix}.
+$$&lt;/p&gt;
+
+&lt;p&gt;This prior assumption along with the above equations result in a &lt;a href=&#34;https://arxiv.org/abs/1711.10561&#34; target=&#34;_blank&#34;&gt;physics informed neural network&lt;/a&gt; that takes $$x$$ as an input and outputs&lt;/p&gt;
+
+&lt;p&gt;$$
+\begin{bmatrix}
+u^n_1(x), \ldots, u^n&lt;em&gt;q(x), u^n&lt;/em&gt;{q+1}(x)
+\end{bmatrix}.
+$$&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example (Allen-Cahn Equation)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This example aims to highlight the ability of the proposed discrete time models to handle different types of nonlinearity in the governing partial differential equation. To this end, let us consider the &lt;a href=&#34;https://en.wikipedia.org/wiki/Allen–Cahn_equation&#34; target=&#34;_blank&#34;&gt;Allen-Cahn&lt;/a&gt; equation along with periodic boundary conditions&lt;/p&gt;
+
+&lt;p&gt;$$
+\begin{array}{l}
+u&lt;em&gt;t - 0.0001 u&lt;/em&gt;{xx} + 5 u^3 - 5 u = 0, \ \ \ x \in [-1,1], \ \ \ t \in [0,1],&lt;br /&gt;
+u(0, x) = x^2 \cos(\pi x),&lt;br /&gt;
+u(t,-1) = u(t,1),&lt;br /&gt;
+u_x(t,-1) = u_x(t,1).
+\end{array}
+$$&lt;/p&gt;
+
+&lt;p&gt;The Allen-Cahn equation is a well-known equation from the area of reaction-diffusion systems. It describes the process of phase separation in multi-component alloy systems, including order-disorder transitions. For the Allen-Cahn equation, the nonlinear operator is given by&lt;/p&gt;
+
+&lt;p&gt;$$
+\mathcal{N}[u^{n+c_j}] = -0.0001 u^{n+c&lt;em&gt;j}&lt;/em&gt;{xx} + 5 \left(u^{n+c_j}\right)^3 - 5 u^{n+c_j},
+$$&lt;/p&gt;
+
+&lt;p&gt;and the shared parameters of the neural networks can be learned by minimizing the sum of squared errors&lt;/p&gt;
+
+&lt;p&gt;$$
+SSE = SSE_n + SSE_b,
+$$&lt;/p&gt;
+
+&lt;p&gt;where&lt;/p&gt;
+
+&lt;p&gt;$$
+SSE&lt;em&gt;n = \sum&lt;/em&gt;{j=1}^{q+1} \sum_{i=1}^{N_n} |u^n_j(x^{n,i}) - u^{n,i}|^2,
+$$&lt;/p&gt;
+
+&lt;p&gt;and&lt;/p&gt;
+
+&lt;p&gt;$$
+\begin{array}{rl}
+SSE&lt;em&gt;b =&amp;amp; \sum&lt;/em&gt;{i=1}^q |u^{n+c_i}(-1) - u^{n+c&lt;em&gt;i}(1)|^2 + |u^{n+1}(-1) - u^{n+1}(1)|^2 &lt;br /&gt;
+      +&amp;amp; \sum&lt;/em&gt;{i=1}^q |u_x^{n+c_i}(-1) - u_x^{n+c_i}(1)|^2 + |u_x^{n+1}(-1) - u_x^{n+1}(1)|^2.
+\end{array}
+$$&lt;/p&gt;
+
+&lt;p&gt;Here, $${x^{n,i}, u^{n,i}}_{i=1}^{N_n}$$ corresponds to the data at time $$t^n$$.&lt;/p&gt;
+
+&lt;p&gt;The following figure summarizes our predictions after the network has been trained using the above loss function.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.dam.brown.edu/people/mraissi/assets/img/AC.png&#34; alt=&#34;&#34; /&gt;
+&amp;gt; &lt;em&gt;Allen-Cahn equation:&lt;/em&gt; &lt;strong&gt;Top:&lt;/strong&gt; Solution along with the location of the initial training snapshot at t=0.1 and the final prediction snapshot at t=0.9. &lt;strong&gt;Bottom:&lt;/strong&gt; Initial training data and final prediction at the snapshots depicted by the white vertical lines in the top panel.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;data-driven-discovery-of-nonlinear-partial-differential-equations&#34;&gt;Data-driven Discovery of Nonlinear Partial Differential Equations&lt;/h3&gt;
+
+&lt;p&gt;In this &lt;a href=&#34;https://arxiv.org/abs/1711.10566&#34; target=&#34;_blank&#34;&gt;second part&lt;/a&gt; of our study, we shift our attention to the problem of data-driven discovery of partial differential equations. To this end, let us consider parametrized and nonlinear partial differential equations of the general form&lt;/p&gt;
+
+&lt;p&gt;$$
+u_t + \mathcal{N}[u;\lambda] = 0,\ x \in \Omega, \ t\in[0,T],
+$$&lt;/p&gt;
+
+&lt;p&gt;where $$u(t,x)$$ denotes the latent (hidden) solution, $$\mathcal{N}[\cdot;\lambda]$$ is a nonlinear operator parametrized by $$\lambda$$, and $$\Omega$$ is a subset of $$\mathbb{R}^D$$. Now, the problem of data-driven discovery of partial differential equations poses the following question: given a small set of scattered and potentially noisy observations of the hidden state $$u(t,x)$$ of a system, what are the parameters $$\lambda$$ that best describe the observed data?&lt;/p&gt;
+
+&lt;p&gt;In what follows, we will provide an overview of our two main approaches to tackle this problem, namely continuous time and discrete time models, as well as a series of results and systematic studies for a diverse collection of benchmarks. In the first approach, we will assume availability of scattered and potential noisy measurements across the entire spatio-temporal domain. In the latter, we will try to infer the unknown parameters $$\lambda$$ from only two data snapshots taken at distinct time instants. All data and codes used in this manuscript are publicly available on &lt;a href=&#34;https://github.com/maziarraissi/PINNs&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;continuous-time-models-1&#34;&gt;Continuous Time Models&lt;/h4&gt;
+
+&lt;p&gt;We define $$f(t,x)$$ to be given by&lt;/p&gt;
+
+&lt;p&gt;$$
+f := u_t + \mathcal{N}[u;\lambda],\label{eq:PDE_RHS}
+$$&lt;/p&gt;
+
+&lt;p&gt;and proceed by approximating $$u(t,x)$$ by a deep neural network. This assumption results in a &lt;a href=&#34;https://arxiv.org/abs/1711.10566&#34; target=&#34;_blank&#34;&gt;physics informed neural network&lt;/a&gt; $$f(t,x)$$. This network can be derived by the calculus on computational graphs: &lt;a href=&#34;http://colah.github.io/posts/2015-08-Backprop/&#34; target=&#34;_blank&#34;&gt;Backpropagation&lt;/a&gt;. It is worth highlighting that the parameters of the differential operator $$\lambda$$ turn into parameters of the physics informed neural network $$f(t,x)$$.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example (Navier-Stokes Equation)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Our next example involves a realistic scenario of incompressible fluid flow as described by the ubiquitous &lt;a href=&#34;https://en.wikipedia.org/wiki/Navier–Stokes_existence_and_smoothness&#34; target=&#34;_blank&#34;&gt;Navier-Stokes&lt;/a&gt; equations. Navier-Stokes equations describe the physics of many phenomena of scientific and engineering interest. They may be used to model the weather, ocean currents, water flow in a pipe and air flow around a wing. The Navier-Stokes equations in their full and simplified forms help with the design of aircraft and cars, the study of blood flow, the design of power stations, the analysis of the dispersion of pollutants, and many other applications. Let us consider the Navier-Stokes equations in two dimensions (2D) given explicitly by&lt;/p&gt;
+
+&lt;p&gt;$$
+\begin{array}{c}
+u_t + \lambda_1 (u u_x + v u_y) = -p_x + \lambda&lt;em&gt;2(u&lt;/em&gt;{xx} + u_{yy}),&lt;br /&gt;
+v_t + \lambda_1 (u v_x + v v_y) = -p_y + \lambda&lt;em&gt;2(v&lt;/em&gt;{xx} + v_{yy}),
+\end{array}
+$$&lt;/p&gt;
+
+&lt;p&gt;where $$u(t, x, y)$$ denotes the $$x$$-component of the velocity field, $$v(t, x, y)$$ the $$y$$-component, and $$p(t, x, y)$$ the pressure. Here, $$\lambda = (\lambda_1, \lambda_2)$$ are the unknown parameters. Solutions to the Navier-Stokes equations are searched in the set of divergence-free functions; i.e.,&lt;/p&gt;
+
+&lt;p&gt;$$
+u_x + v_y = 0.
+$$&lt;/p&gt;
+
+&lt;p&gt;This extra equation is the continuity equation for incompressible fluids that describes the conservation of mass of the fluid. We make the assumption that&lt;/p&gt;
+
+&lt;p&gt;$$
+u = \psi_y,\ \ \ v = -\psi_x,
+$$&lt;/p&gt;
+
+&lt;p&gt;for some latent function $$\psi(t,x,y)$$. Under this assumption, the continuity equation will be automatically satisfied. Given noisy measurements&lt;/p&gt;
+
+&lt;p&gt;$$
+{t^i, x^i, y^i, u^i, v^i}_{i=1}^{N}
+$$&lt;/p&gt;
+
+&lt;p&gt;of the velocity field, we are interested in learning the parameters $$\lambda$$ as well as the pressure $$p(t,x,y)$$. We define $$f(t,x,y)$$ and $$g(t,x,y)$$ to be given by&lt;/p&gt;
+
+&lt;p&gt;$$
+\begin{array}{c}
+f := u_t + \lambda_1 (u u_x + v u_y) + p_x - \lambda&lt;em&gt;2(u&lt;/em&gt;{xx} + u_{yy}),&lt;br /&gt;
+g := v_t + \lambda_1 (u v_x + v v_y) + p_y - \lambda&lt;em&gt;2(v&lt;/em&gt;{xx} + v_{yy}),
+\end{array}
+$$&lt;/p&gt;
+
+&lt;p&gt;and proceed by jointly approximating $$\begin{bmatrix}
+\psi(t,x,y) &amp;amp; p(t,x,y)
+\end{bmatrix}$$ using a single neural network with two outputs. This prior assumption results into a &lt;a href=&#34;https://arxiv.org/abs/1711.10566&#34; target=&#34;_blank&#34;&gt;physics informed neural network&lt;/a&gt; $$\begin{bmatrix}
+f(t,x,y) &amp;amp; g(t,x,y)
+\end{bmatrix}$$. The parameters $$\lambda$$ of the Navier-Stokes operator as well as the parameters of the neural networks $$\begin{bmatrix}
+\psi(t,x,y) &amp;amp; p(t,x,y)
+\end{bmatrix}$$ and $$\begin{bmatrix}
+f(t,x,y) &amp;amp; g(t,x,y)
+\end{bmatrix}$$ can be trained by minimizing the mean squared error loss&lt;/p&gt;
+
+&lt;p&gt;$$
+\begin{array}{rl}
+MSE :=&amp;amp; \frac{1}{N}\sum&lt;em&gt;{i=1}^{N} \left(|u(t^i,x^i,y^i) - u^i|^2 + |v(t^i,x^i,y^i) - v^i|^2\right) &lt;br /&gt;
+    +&amp;amp; \frac{1}{N}\sum&lt;/em&gt;{i=1}^{N} \left(|f(t^i,x^i,y^i)|^2 + |g(t^i,x^i,y^i)|^2\right).
+\end{array}
+$$&lt;/p&gt;
+
+&lt;p&gt;A summary of our results for this example is presented in the following figures.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.dam.brown.edu/people/mraissi/assets/img/NavierStokes_data.png&#34; alt=&#34;&#34; /&gt;
+&amp;gt; &lt;em&gt;Navier-Stokes equation:&lt;/em&gt; &lt;strong&gt;Top:&lt;/strong&gt; Incompressible flow and dynamic vortex shedding past a circular cylinder at Re=100. The spatio-temporal training data correspond to the depicted rectangular region in the cylinder wake. &lt;strong&gt;Bottom:&lt;/strong&gt; Locations of training data-points for the the stream-wise and transverse velocity components.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.dam.brown.edu/people/mraissi/assets/img/NavierStokes_prediction.png&#34; alt=&#34;&#34; /&gt;
+&amp;gt; &lt;em&gt;Navier-Stokes equation:&lt;/em&gt; &lt;strong&gt;Top:&lt;/strong&gt; Predicted versus exact instantaneous pressure field at a representative time instant. By definition, the pressure can be recovered up to a constant, hence justifying the different magnitude between the two plots. This remarkable qualitative agreement highlights the ability of physics-informed neural networks to identify the entire pressure field, despite the fact that no data on the pressure are used during model training. &lt;strong&gt;Bottom:&lt;/strong&gt; Correct partial differential equation along with the identified one.&lt;/p&gt;
+
+&lt;p&gt;Our approach so far assumes availability of scattered data throughout the entire spatio-temporal domain. However, in many cases of practical interest, one may only be able to observe the system at distinct time instants. In the next section, we introduce a different approach that tackles the data-driven discovery problem using only two data snapshots. We will see how, by leveraging the classical &lt;a href=&#34;https://en.wikipedia.org/wiki/Runge–Kutta_methods&#34; target=&#34;_blank&#34;&gt;Runge-Kutta&lt;/a&gt; time-stepping schemes, one can construct discrete time &lt;a href=&#34;https://arxiv.org/abs/1711.10566&#34; target=&#34;_blank&#34;&gt;physics informed neural networks&lt;/a&gt; that can retain high predictive accuracy even when the temporal gap between the data snapshots is very large.&lt;/p&gt;
+
+&lt;h4 id=&#34;discrete-time-models-1&#34;&gt;Discrete Time Models&lt;/h4&gt;
+
+&lt;p&gt;We begin by employing the general form of &lt;a href=&#34;https://en.wikipedia.org/wiki/Runge–Kutta_methods&#34; target=&#34;_blank&#34;&gt;Runge-Kutta&lt;/a&gt; methods with $$q$$ stages and obtain&lt;/p&gt;
+
+&lt;p&gt;$$
+\begin{array}{ll}
+u^{n+c&lt;em&gt;i} = u^n - \Delta t \sum&lt;/em&gt;{j=1}^q a_{ij} \mathcal{N}[u^{n+c&lt;em&gt;j};\lambda], \ \ i=1,\ldots,q,&lt;br /&gt;
+u^{n+1} = u^{n} - \Delta t \sum&lt;/em&gt;{j=1}^q b_j \mathcal{N}[u^{n+c_j};\lambda].
+\end{array}
+$$&lt;/p&gt;
+
+&lt;p&gt;Here, $$u^{n+c_j}(x) = u(t^n + c&lt;em&gt;j \Delta t, x)$$ for $$j=1, \ldots, q$$. This general form encapsulates both implicit and explicit time-stepping schemes, depending on the choice of the parameters $${a&lt;/em&gt;{ij},b_j,c_j}$$. The above equations can be equivalently expressed as&lt;/p&gt;
+
+&lt;p&gt;$$
+\begin{array}{ll}
+u^{n} = u^n&lt;em&gt;i, \ \ i=1,\ldots,q,&lt;br /&gt;
+u^{n+1} = u^{n+1}&lt;/em&gt;{i}, \ \ i=1,\ldots,q.
+\end{array}
+$$&lt;/p&gt;
+
+&lt;p&gt;where&lt;/p&gt;
+
+&lt;p&gt;$$
+\begin{array}{ll}
+u^n_i := u^{n+c&lt;em&gt;i} + \Delta t \sum&lt;/em&gt;{j=1}^q a_{ij} \mathcal{N}[u^{n+c&lt;em&gt;j};\lambda], \ \ i=1,\ldots,q,&lt;br /&gt;
+u^{n+1}&lt;/em&gt;{i} := u^{n+c&lt;em&gt;i} + \Delta t \sum&lt;/em&gt;{j=1}^q (a_{ij} - b_j) \mathcal{N}[u^{n+c_j};\lambda], \ \ i=1,\ldots,q.
+\end{array}
+$$&lt;/p&gt;
+
+&lt;p&gt;We proceed by placing a multi-output neural network prior on&lt;/p&gt;
+
+&lt;p&gt;$$
+\begin{bmatrix}
+u^{n+c_1}(x), \ldots, u^{n+c_q}(x)
+\end{bmatrix}.
+$$&lt;/p&gt;
+
+&lt;p&gt;This prior assumption result in two &lt;a href=&#34;https://arxiv.org/abs/1711.10566&#34; target=&#34;_blank&#34;&gt;physics informed neural networks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;$$
+\begin{bmatrix}
+u^{n}_1(x), \ldots, u^{n}&lt;em&gt;q(x), u^{n}&lt;/em&gt;{q+1}(x)
+\end{bmatrix},
+$$&lt;/p&gt;
+
+&lt;p&gt;and&lt;/p&gt;
+
+&lt;p&gt;$$
+\begin{bmatrix}
+u^{n+1}_1(x), \ldots, u^{n+1}&lt;em&gt;q(x), u^{n+1}&lt;/em&gt;{q+1}(x)
+\end{bmatrix}.
+$$&lt;/p&gt;
+
+&lt;p&gt;Given noisy measurements at two distinct temporal snapshots $${\mathbf{x}^{n}, \mathbf{u}^{n}}$$ and $${\mathbf{x}^{n+1}, \mathbf{u}^{n+1}}$$ of the system at times $$t^{n}$$ and $$t^{n+1}$$, respectively, the shared parameters of the neural networks along with the parameters $$\lambda$$ of the differential operator can be trained by minimizing the sum of squared errors&lt;/p&gt;
+
+&lt;p&gt;$$
+SSE = SSE&lt;em&gt;n + SSE&lt;/em&gt;{n+1},
+$$&lt;/p&gt;
+
+&lt;p&gt;where&lt;/p&gt;
+
+&lt;p&gt;$$
+SSE&lt;em&gt;n := \sum&lt;/em&gt;{j=1}^q \sum_{i=1}^{N_n} |u^n_j(x^{n,i}) - u^{n,i}|^2,
+$$&lt;/p&gt;
+
+&lt;p&gt;and&lt;/p&gt;
+
+&lt;p&gt;$$
+SSE&lt;em&gt;{n+1} := \sum&lt;/em&gt;{j=1}^q \sum&lt;em&gt;{i=1}^{N&lt;/em&gt;{n+1}} |u^{n+1}_j(x^{n+1,i}) - u^{n+1,i}|^2.
+$$&lt;/p&gt;
+
+&lt;p&gt;Here, $$\mathbf{x}^n = \left{x^{n,i}\right}_{i=1}^{N&lt;em&gt;n}$$, $$\mathbf{u}^n = \left{u^{n,i}\right}&lt;/em&gt;{i=1}^{N&lt;em&gt;n}$$, $$\mathbf{x}^{n+1} = \left{x^{n+1,i}\right}&lt;/em&gt;{i=1}^{N&lt;em&gt;{n+1}}$$, and $$\mathbf{u}^{n+1} = \left{u^{n+1,i}\right}&lt;/em&gt;{i=1}^{N_{n+1}}$$.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example (Korteweg–de Vries Equation)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Our final example aims to highlight the ability of the proposed framework to handle governing partial differential equations involving higher order derivatives. Here, we consider a mathematical model of waves on shallow water surfaces; the &lt;a href=&#34;https://en.wikipedia.org/wiki/Korteweg–de_Vries_equation&#34; target=&#34;_blank&#34;&gt;Korteweg-de Vries&lt;/a&gt; (KdV) equation. The KdV equation reads as&lt;/p&gt;
+
+&lt;p&gt;$$
+u_t + \lambda_1 u u_x + \lambda&lt;em&gt;2 u&lt;/em&gt;{xxx} = 0,
+$$&lt;/p&gt;
+
+&lt;p&gt;with $$(\lambda_1, \lambda_2)$$ being the unknown parameters. For the KdV equation, the nonlinear operator is given by&lt;/p&gt;
+
+&lt;p&gt;$$
+\mathcal{N}[u^{n+c_j}] = \lambda_1 u^{n+c_j} u^{n+c_j}_x - \lambda_2 u^{n+c&lt;em&gt;j}&lt;/em&gt;{xxx}
+$$&lt;/p&gt;
+
+&lt;p&gt;and the shared parameters of the neural networks along with the parameters $$\lambda = (\lambda_1, \lambda_2)$$ of the KdV equation can be learned by minimizing the sum of squared errors given above.&lt;/p&gt;
+
+&lt;p&gt;The results of this experiment are summarized in the following figure.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.dam.brown.edu/people/mraissi/assets/img/KdV.png&#34; alt=&#34;&#34; /&gt;
+&amp;gt; &lt;em&gt;KdV equation:&lt;/em&gt; &lt;strong&gt;Top:&lt;/strong&gt; Solution along with the temporal locations of the two training snapshots. Middle: Training data and exact solution corresponding to  the two temporal snapshots depicted by the dashed vertical lines in the top panel. &lt;strong&gt;Bottom:&lt;/strong&gt; Correct partial differential equation along with the identified one.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Although a series of promising results was presented, the reader may perhaps agree that this two-part treatise creates more questions than it answers. In a broader context, and along the way of seeking further understanding of such tools, we believe that this work advocates a fruitful synergy between machine learning and classical computational physics that has the potential to enrich both fields and lead to high-impact developments.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Acknowledgements&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This work received support by the DARPA EQUiPS grant N66001-15-2-4055 and the AFOSR grant FA9550-17-1-0013. All data and codes are publicly available on &lt;a href=&#34;https://github.com/maziarraissi/PINNs&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;@article{raissi2017physicsI,
+  title={Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations},
+  author={Raissi, Maziar and Perdikaris, Paris and Karniadakis, George Em},
+  journal={arXiv preprint arXiv:1711.10561},
+  year={2017}
+}
+
+@article{raissi2017physicsII,
+  title={Physics Informed Deep Learning (Part II): Data-driven Discovery of Nonlinear Partial Differential Equations},
+  author={Raissi, Maziar and Perdikaris, Paris and Karniadakis, George Em},
+  journal={arXiv preprint arXiv:1711.10566},
+  year={2017}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;!--
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](another-page).
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+# [](#header-1)Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+## [](#header-2)Header 2
+
+&gt; This is a blockquote following a header.
+&gt;
+&gt; When something is important enough, you do it even if the odds are not in your favor.
+
+### [](#header-3)Header 3
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require(&#39;./lang/&#39; + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, &#34;= #{version}&#34;)
+end
+```
+
+#### [](#header-4)Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### [](#header-5)Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### [](#header-6)Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There&#39;s a horizontal rule below this.
+
+* * *
+
+### Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+### And an ordered list:
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Small image
+
+![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![](https://guides.github.com/activities/hello-world/branching.png)
+
+
+### Definition lists can be used with HTML syntax.
+
+&lt;dl&gt;
+&lt;dt&gt;Name&lt;/dt&gt;
+&lt;dd&gt;Godzilla&lt;/dd&gt;
+&lt;dt&gt;Born&lt;/dt&gt;
+&lt;dd&gt;1952&lt;/dd&gt;
+&lt;dt&gt;Birthplace&lt;/dt&gt;
+&lt;dd&gt;Japan&lt;/dd&gt;
+&lt;dt&gt;Color&lt;/dt&gt;
+&lt;dd&gt;Green&lt;/dd&gt;
+&lt;/dl&gt;
+
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
+
+```
+The final element.
+```
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Some online learning platforms</title>
+      <link>https://super-messiah.github.io/post/20190509-online-learning-platform/</link>
+      <pubDate>Wed, 08 May 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://super-messiah.github.io/post/20190509-online-learning-platform/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/&#34; target=&#34;_blank&#34;&gt;Coursera&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.khanacademy.org/&#34; target=&#34;_blank&#34;&gt;Khan Academy&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.codecademy.com/&#34; target=&#34;_blank&#34;&gt;Codecademy&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://lagunita.stanford.edu/&#34; target=&#34;_blank&#34;&gt;Stanford Lagunita&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://see.stanford.edu/&#34; target=&#34;_blank&#34;&gt;Stanford Engineering Everywhere (SEE)&lt;/a&gt; expands the Stanford experience to students and educators online and at no charge.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/user/stanfordonline/featured&#34; target=&#34;_blank&#34;&gt;Stanfordonline Youtube channel&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://cnx.org/&#34; target=&#34;_blank&#34;&gt;OpenStax CNX&lt;/a&gt; is a dynamic non-profit digital ecosystem serving millions of users per month in the delivery of educational content to improve learning outcomes.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tools and Softwares for adademic reserach</title>
+      <link>https://super-messiah.github.io/post/20190508-tools-and-softwares/</link>
+      <pubDate>Wed, 08 May 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://super-messiah.github.io/post/20190508-tools-and-softwares/</guid>
+      <description>
+
+&lt;h2 id=&#34;server-command&#34;&gt;Server command&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;GPU server at Stanford &lt;strong&gt;ssh -Y yufeng@10.109.1.20&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;GPU server at CUPB &lt;strong&gt;ssh -X wyf@192.168.187.103&lt;/strong&gt; (IP: 192.168.187.x)&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;CPU server at CUPB &lt;strong&gt;ssh -X zhouhui@192.168.100.x&lt;/strong&gt; (IP: 192.168.102.x)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;kill -9 PID&lt;/strong&gt; to kill process on GPUs with PID in nvidia-smi.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;evince text.pdf&lt;/strong&gt; to display pdf.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Rsync&#34; target=&#34;_blank&#34;&gt;rsync&lt;/a&gt; is a utility for efficiently transferring and synchronizing files between a computer and an external hard drive and across networked computers by comparing the modification times and sizes of files.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;rsync -r -v ./text.md yufeng@10.109.1.20:/home/yufeng/&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;rsync -r -v yufeng@10.109.1.20:/home/yufeng/ ./text.md&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;programming-language&#34;&gt;Programming language&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.rstudio.com/&#34; target=&#34;_blank&#34;&gt;Rstudio&lt;/a&gt; &lt;a href=&#34;https://www.cnblogs.com/orange-lover/p/7400878.html&#34; target=&#34;_blank&#34;&gt;How to install&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.python.org/&#34; target=&#34;_blank&#34;&gt;Python&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://web.stanford.edu/~schmit/cme193/index.html&#34; target=&#34;_blank&#34;&gt;CME 193 - Introduction to Scientific Python&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://scipy.org/&#34; target=&#34;_blank&#34;&gt;Scipy&lt;/a&gt; is a Python-based ecosystem of open-source software for mathematics, science, and engineering. In particular, these are some of the core packages:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.numpy.org/&#34; target=&#34;_blank&#34;&gt;NumPy&lt;/a&gt; is the fundamental package for scientific computing with Python.&lt;/li&gt;
+&lt;li&gt;[Matplotlib]()&lt;/li&gt;
+&lt;li&gt;[SciPy library]()&lt;/li&gt;
+&lt;li&gt;[pandas]()
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.cplusplus.com&#34; target=&#34;_blank&#34;&gt;C++&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;general-tools&#34;&gt;General tools&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://gen.lib.rus.ec/&#34; target=&#34;_blank&#34;&gt;Library Genesis&lt;/a&gt; for downloading books.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://sci-hub.tw/&#34; target=&#34;_blank&#34;&gt;Scihub&lt;/a&gt; for downloading journal papers.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://slides.com/&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt; is a place for creating, presenting and sharing slide decks.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://inkscape.org/&#34; target=&#34;_blank&#34;&gt;Inkscape&lt;/a&gt; is a professional vector graphics editor for Windows, Mac OS X and Linux. It&amp;rsquo;s free and open source.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/&#34; target=&#34;_blank&#34;&gt;pdftk&lt;/a&gt; is our friendly graphical tool for quickly merging and splitting PDF documents and pages.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://people.debian.org/~naoliv/misc/imagemagick/link/www/convert.html&#34; target=&#34;_blank&#34;&gt;The Convert Command&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;[Texlive]() and [Texmaker]() for Latex.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.texmacs.org/tmweb/home/welcome.en.html&#34; target=&#34;_blank&#34;&gt;TeXmacs&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;[Sublime]()&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://code.visualstudio.com/&#34; target=&#34;_blank&#34;&gt;Visual Studio Code&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.overleaf.com/&#34; target=&#34;_blank&#34;&gt;Overleaf&lt;/a&gt; is the easy to use, online, collaborative LaTeX editor.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://hartwork.org/beamer-theme-matrix/&#34; target=&#34;_blank&#34;&gt;Beamer theme Matrix&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://deic.uab.es/~iblanes/beamer_gallery/individual/AnnArbor-beaver-default.html&#34; target=&#34;_blank&#34;&gt;Beamer theme gallery&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.mohu.org/info/symbols/symbols.htm&#34; target=&#34;_blank&#34;&gt;Latex symbols&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://quizlet.com/latest&#34; target=&#34;_blank&#34;&gt;Quizlet&lt;/a&gt; is the easiest way to study, practice and master what you&amp;rsquo;re learning.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;[Anaconda]()&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://nbviewer.jupyter.org/&#34; target=&#34;_blank&#34;&gt;Jupyter nbviewer&lt;/a&gt; is A simple way to share Jupyter Notebooks.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://pandoc.org/&#34; target=&#34;_blank&#34;&gt;Pandoc&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;[Markdown]()&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dillinger.io/&#34; target=&#34;_blank&#34;&gt;Dillinger&lt;/a&gt; is an online Markdown editor.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.typora.io/&#34; target=&#34;_blank&#34;&gt;Typora&lt;/a&gt; is Markdown editor, Markdown reader.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34;&gt;Git&lt;/a&gt; is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.atlassian.com/git/tutorials&#34; target=&#34;_blank&#34;&gt;Bitbucket&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://brew.sh/&#34; target=&#34;_blank&#34;&gt;brew&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;[Matlab]()&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;[CUDA]()&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.chebfun.org/&#34; target=&#34;_blank&#34;&gt;Chebfun&lt;/a&gt; is an open-source package for computing with functions to about 15-digit accuracy.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://software.intel.com/en-us/parallel-studio-xe&#34; target=&#34;_blank&#34;&gt;Intel Parallel Studio XE 2015&lt;/a&gt; (&lt;a href=&#34;https://blog.csdn.net/sowhatgavin/article/details/71055032?locationNum=6&amp;amp;fps=1&#34; target=&#34;_blank&#34;&gt;How to Install&lt;/a&gt;)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;tar zxvf parallel_studio_xe_2015.tgz
+cd  parallel_studio_xe_2015
+./install.sh
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;source $HOME/intel/composer_xe_2015.0.090/bin/iccvars.shintel64
+source $HOME/intel/composer_xe_2015.0.090/bin/ifortvars.shintel64
+source $HOME/intel/composer_xe_2015.0.090/mkl/bin/mklvars.sh intel64
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;algorithms&#34;&gt;Algorithms&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://docs.nvidia.com/cuda/cufft/&#34; target=&#34;_blank&#34;&gt;cuFFT&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.p3dfft.net/&#34; target=&#34;_blank&#34;&gt;P3DFFT&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://groups.csail.mit.edu/netmit/sFFT/index.html&#34; target=&#34;_blank&#34;&gt;SFFT&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;specific-softwares-in-geophysics&#34;&gt;Specific softwares in Geophysics&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;[Madagascar]()&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;[SeismicUnix]()&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.geophysik.uni-muenchen.de/~megies/www_obsrise/index.html#description&#34; target=&#34;_blank&#34;&gt;Obspy&lt;/a&gt; is an open-source project dedicated to provide a Python framework for processing seismological data.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep learning Frameworks</title>
+      <link>https://super-messiah.github.io/post/20190507-deeplearning-frameworks/</link>
+      <pubDate>Tue, 07 May 2019 22:08:03 -0700</pubDate>
+      
+      <guid>https://super-messiah.github.io/post/20190507-deeplearning-frameworks/</guid>
+      <description>&lt;p&gt;A deep learning framework is an interface, library or a tool which allows us to build deep learning models more easily and quickly, without getting into the details of underlying algorithms. They provide a clear and concise way for defining models using a collection of pre-built and optimized components.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tensorflow.org/&#34; target=&#34;_blank&#34;&gt;TensorFlow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Keras]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pytorch.org/&#34; target=&#34;_blank&#34;&gt;PyTorch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Caffe]&lt;/li&gt;
+&lt;li&gt;[CNTK]&lt;/li&gt;
+&lt;li&gt;[Theano]&lt;/li&gt;
+&lt;li&gt;[Deeplearning4j]&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Useful links in Computer Science</title>
+      <link>https://super-messiah.github.io/post/20190507-useful-links-in-computer-science/</link>
+      <pubDate>Tue, 07 May 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://super-messiah.github.io/post/20190507-useful-links-in-computer-science/</guid>
+      <description>
+
+&lt;h2 id=&#34;website-resources&#34;&gt;Website resources&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://deeplearning.net/&#34; target=&#34;_blank&#34;&gt;Deep Learning&lt;/a&gt; is intended to host a variety of resources and pointers to information about Deep Learning.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.deeplearning.ai/&#34; target=&#34;_blank&#34;&gt;deeplearning.ai&lt;/a&gt; provides a series of courses about machine learning and deep learning. The Machine Learning course and Deep Learning Specialization teach the most important and foundational principles of Machine Learning and Deep Learning. TensorFlow Specialization teaches you how to use TensorFlow to implement those principles so that you can start building and applying scalable models to real-world problems.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/featured&#34; target=&#34;_blank&#34;&gt;Deeplearning.ai Youtube channel&lt;/a&gt; provides the videos from Deep Learning specialization on Coursera.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://research.google.com/seedbank/&#34; target=&#34;_blank&#34;&gt;Seedbank&lt;/a&gt; is a Collection of Interactive Machine Learning Examples.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://vision.stanford.edu/index.html&#34; target=&#34;_blank&#34;&gt;Stanford Vision Lab&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://cs231n.stanford.edu/&#34; target=&#34;_blank&#34;&gt;CS231n: Convolutional Neural Networks for Visual Recognition&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://machinelearningmastery.com/&#34; target=&#34;_blank&#34;&gt;Machine Learning Mastery&lt;/a&gt; is a community that offers tutorials and Ebooks to help developers get started and get good at applied machine learning.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.deeplearningbook.org/&#34; target=&#34;_blank&#34;&gt;The Deep Learning textbook&lt;/a&gt; is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://exacity.github.io/deeplearningbook-chinese/&#34; target=&#34;_blank&#34;&gt;Deep Learning Book Chinese Translation&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://scikit-learn.org/stable/&#34; target=&#34;_blank&#34;&gt;scikit-learn&lt;/a&gt; is a collection of algorithms and tools for machine learning.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://scikit-image.org/&#34; target=&#34;_blank&#34;&gt;scikit-image&lt;/a&gt; is a collection of algorithms for image processing.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.ai-start.com/&#34; target=&#34;_blank&#34;&gt;AI Start&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://openai.com/&#34; target=&#34;_blank&#34;&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://distill.pub/about/&#34; target=&#34;_blank&#34;&gt;Distill&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;homepage&#34;&gt;Homepage&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.dam.brown.edu/people/mraissi/&#34; target=&#34;_blank&#34;&gt;Maziar Raissi&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://schmit.github.io/&#34; target=&#34;_blank&#34;&gt;Sven Schmit&lt;/a&gt; is a data scientist at Stitch Fix.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.analyticsvidhya.com/blog/author/pulkits/&#34; target=&#34;_blank&#34;&gt;Pulkit Sharma&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://cs.stanford.edu/people/karpathy/&#34; target=&#34;_blank&#34;&gt;Andrej Karpathy&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://brohrer.github.io/blog.html&#34; target=&#34;_blank&#34;&gt;Brandon Rohrer&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.yinwang.org/&#34; target=&#34;_blank&#34;&gt;Yin Wang&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://yihui.name/&#34; target=&#34;_blank&#34;&gt;Yihui Xie&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.bcl.hamilton.ie/~barak/&#34; target=&#34;_blank&#34;&gt;Barak Pearlmutter&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://yann.lecun.com/&#34; target=&#34;_blank&#34;&gt;Yann LeCun&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://colah.github.io/&#34; target=&#34;_blank&#34;&gt;Colah&lt;/a&gt; is&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://tullo.ch/&#34; target=&#34;_blank&#34;&gt;Andrew Tulloch&lt;/a&gt; is a member of the Facebook AI Research Group (FAIR), working on large-scale problems in machine intelligence.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Website generators</title>
+      <link>https://super-messiah.github.io/post/20190507-website-generators/</link>
+      <pubDate>Tue, 07 May 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://super-messiah.github.io/post/20190507-website-generators/</guid>
+      <description>
+
+&lt;p&gt;Static site generators focus on one main task: generate a complete static HTML-based site. This result does not rely on databases or other external data sources and therewith avoid any server-side processing when accessing the website.&lt;/p&gt;
+
+&lt;p&gt;In comparison to dynamic websites, static sites have many advantages and therefore are becoming more and more popular. Static sites can be served quickly, they offer a great extend of simplicity and comes with security benefits out of the box. Furthermore it’s easy to deploy and host static sites as there are no special requirements which needs to be covered by your hosting provider.&lt;/p&gt;
+
+&lt;h2 id=&#34;static-site-generators&#34;&gt;Static site generators&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://hexo.io/&#34; target=&#34;_blank&#34;&gt;Hexo&lt;/a&gt; is a fast, simple &amp;amp; powerful blog framework.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://jekyllrb.com/&#34; target=&#34;_blank&#34;&gt;Jekyll&lt;/a&gt; is a blog-aware static site generator in Ruby.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://nextjs.org/&#34; target=&#34;_blank&#34;&gt;Next.js&lt;/a&gt; is a very popular static site generator based on React and JavaScript and provided by &lt;a href=&#34;https://zeit.co/&#34; target=&#34;_blank&#34;&gt;ZEIT&lt;/a&gt;, a company which is focusing on making cloud computing as easy as possible.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://wordpress.com/&#34; target=&#34;_blank&#34;&gt;WordPress&lt;/a&gt; is a free and open-source content management system (CMS) based on PHP &amp;amp; MySQL. Features include a plugin architecture and a template system.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.gatsbyjs.org/&#34; target=&#34;_blank&#34;&gt;Gatsby&lt;/a&gt; is a free and open source framework based on React that helps developers build blazing fast websites and apps&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;websites&#34;&gt;Websites&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://notes.iissnan.com/&#34; target=&#34;_blank&#34;&gt;IIssNan&amp;rsquo;s Notes&lt;/a&gt; developed &lt;a href=&#34;http://theme-next.iissnan.com/&#34; target=&#34;_blank&#34;&gt;NexT&lt;/a&gt; theme for &lt;a href=&#34;(https://hexo.io/)&#34; target=&#34;_blank&#34;&gt;Hexo&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://georgecushen.com/&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt; developed &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt; theme for &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://yihui.name/&#34; target=&#34;_blank&#34;&gt;Yihui Xie&lt;/a&gt; developed &lt;a href=&#34;https://github.com/yihui/hugo-ivy&#34; target=&#34;_blank&#34;&gt;hugo-ivy&lt;/a&gt; theme for &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Useful links in Applied Mathematics</title>
+      <link>https://super-messiah.github.io/post/20190506-useful-links-in-applied-mathematics/</link>
+      <pubDate>Mon, 06 May 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://super-messiah.github.io/post/20190506-useful-links-in-applied-mathematics/</guid>
+      <description>
+
+&lt;h2 id=&#34;applied-mathematicians&#34;&gt;Applied mathematicians&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.math.ucla.edu/~wotaoyin/index.html&#34; target=&#34;_blank&#34;&gt;Wotao Yin&lt;/a&gt; develops open-source algorithms at &lt;a href=&#34;https://github.com/uclaopt&#34; target=&#34;_blank&#34;&gt;UCLA Optimization Group&lt;/a&gt;. He also contributes his work at &lt;a href=&#34;https://www.caam.rice.edu/~optimization/L1/&#34; target=&#34;_blank&#34;&gt;Rice University, L1-Related Optimization Project&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://sites.google.com/site/louyifei&#34; target=&#34;_blank&#34;&gt;Yifei Lou&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://statweb.stanford.edu/~candes/index.html&#34; target=&#34;_blank&#34;&gt;Emmanuel Candes&lt;/a&gt; contributes to &lt;a href=&#34;http://www.curvelet.org/index.html&#34; target=&#34;_blank&#34;&gt;CurveLab&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://web.stanford.edu/~boyd/&#34; target=&#34;_blank&#34;&gt;Stephen P. Boyd&lt;/a&gt; developed is a Matlab-based modeling system &lt;a href=&#34;http://cvxr.com/cvx/&#34; target=&#34;_blank&#34;&gt;CVX&lt;/a&gt; for convex optimization.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.cs.ubc.ca/~mpf/spgl1/index.html&#34; target=&#34;_blank&#34;&gt;SPGL1&lt;/a&gt; is a Matlab solver for large-scale one-norm regularized least squares.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://web.stanford.edu/dept/statistics/cgi-bin/donoho/&#34; target=&#34;_blank&#34;&gt;Dave Donoho&lt;/a&gt; contributes to &lt;a href=&#34;http://sparselab.stanford.edu/&#34; target=&#34;_blank&#34;&gt;SparseLab&lt;/a&gt;, &lt;a href=&#34;http://statweb.stanford.edu/~wavelab/&#34; target=&#34;_blank&#34;&gt;WaveLab&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://pages.cs.wisc.edu/~swright/&#34; target=&#34;_blank&#34;&gt;Stephen J. Wright&lt;/a&gt; contributes to &lt;a href=&#34;http://www.lx.it.pt/~mtf/GPSR/&#34; target=&#34;_blank&#34;&gt;GPSR&lt;/a&gt;. He develops open-source algorithms at &lt;a href=&#34;https://github.com/cvxgrp/&#34; target=&#34;_blank&#34;&gt;Stanford University Convex Optimization Group&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://people.irisa.fr/Remi.Gribonval/&#34; target=&#34;_blank&#34;&gt;Rémi Gribonval&lt;/a&gt; a Research Director (Directeur de Recherche) with INRIA in Rennes, France. He contributes to &lt;a href=&#34;http://small.inria.fr/index.html&#34; target=&#34;_blank&#34;&gt;SMALLbox&lt;/a&gt;, which aims to develop a new foundational framework for processing signals, using adaptive sparse structured representations.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.gpeyre.com/&#34; target=&#34;_blank&#34;&gt;Gabriel Peyré&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://sites.google.com/site/dnartrahckcir/&#34; target=&#34;_blank&#34;&gt;Rick Chartrand&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.math.ucla.edu/~tao/&#34; target=&#34;_blank&#34;&gt;Terence Tao&lt;/a&gt; is a Professor at the Department of Mathematics, UCLA.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://elad.cs.technion.ac.il/about-me/&#34; target=&#34;_blank&#34;&gt;Michael Elad&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://lear.inrialpes.fr/people/mairal/&#34; target=&#34;_blank&#34;&gt;Julien Mairal&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://pcombet.math.ncsu.edu/&#34; target=&#34;_blank&#34;&gt;Patrick L. Combettes&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://people.eecs.berkeley.edu/~yima/&#34; target=&#34;_blank&#34;&gt;Yi Ma&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www4.comp.polyu.edu.hk/~cslzhang/&#34; target=&#34;_blank&#34;&gt;Lei Zhang&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.math.ust.hk/~jfcai/&#34; target=&#34;_blank&#34;&gt;Jianfeng Cai&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://cswiercz.info/&#34; target=&#34;_blank&#34;&gt;Chris Swierczewski&lt;/a&gt; is an applied scientist at Amazon Web Services.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://eli.thegreenplace.net/&#34; target=&#34;_blank&#34;&gt;Eli Bendersky&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://cims.nyu.edu/cmcl/cmcl.html&#34; target=&#34;_blank&#34;&gt;CMCL&lt;/a&gt; is a research center at the Courant Institute of New York University. They develop &lt;a href=&#34;https://cims.nyu.edu/cmcl/nufft/nufft.html&#34; target=&#34;_blank&#34;&gt;NUFFT&lt;/a&gt;, Fast Fourier transforms for nonequispaced data in 1, 2 and 3 dimensions.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://math.mit.edu/icg/people/laurent.html&#34; target=&#34;_blank&#34;&gt;Laurent Demanet&lt;/a&gt; is an Associate Professor of Applied Mathematics, in the Department of Mathematics at MIT.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://people.maths.ox.ac.uk/trefethen/&#34; target=&#34;_blank&#34;&gt;Lloyd N. Trefethen&lt;/a&gt; is professor of numerical analysis and head of the Numerical Analysis Group at the Mathematical Institute, University of Oxford. He founded &lt;a href=&#34;http://www.chebfun.org/&#34; target=&#34;_blank&#34;&gt;Chebfun&lt;/a&gt;, an open-source package for computing with functions to about 15-digit accuracy.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Gene_H._Golub&#34; target=&#34;_blank&#34;&gt;Gene H. Golub&lt;/a&gt; was Fletcher Jones Professor of Computer Science at Stanford University, he authored &lt;a href=&#34;https://jhupbooks.press.jhu.edu/title/matrix-computations&#34; target=&#34;_blank&#34;&gt;Matrix Computations&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.brown.edu/research/projects/crunch/george-karniadakis&#34; target=&#34;_blank&#34;&gt;George Em Karniadakis&lt;/a&gt; is professor at Brown University, and the head of &lt;a href=&#34;https://www.brown.edu/research/projects/crunch/home&#34; target=&#34;_blank&#34;&gt;CRUNCH&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www-personal.umich.edu/~jpboyd/&#34; target=&#34;_blank&#34;&gt;John P. Boyd&lt;/a&gt; authored &lt;a href=&#34;http://depts.washington.edu/ph506/Boyd.pdf&#34; target=&#34;_blank&#34;&gt;Chebyshev and Fourier Spectral Methods&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www-cs-faculty.stanford.edu/~knuth/&#34; target=&#34;_blank&#34;&gt;Donald E. Knuth&lt;/a&gt; was a famous professor at Stanford University, he is the author of the multi-volume work &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming&#34; target=&#34;_blank&#34;&gt;The Art of Computer Programming&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;websites&#34;&gt;Websites&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cosx.org/&#34; target=&#34;_blank&#34;&gt;Capital Of Statistics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Useful links in Geophysics</title>
+      <link>https://super-messiah.github.io/post/20190503-useful-links-in-geophysics/</link>
+      <pubDate>Fri, 03 May 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://super-messiah.github.io/post/20190503-useful-links-in-geophysics/</guid>
+      <description>
+
+&lt;h2 id=&#34;geophysicists&#34;&gt;Geophysicists&lt;/h2&gt;
+
+&lt;p&gt;Here I list some personal homepage of geophysicists based on my experience and interests.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://sep.stanford.edu/sep/jon/&#34; target=&#34;_blank&#34;&gt;Jon F. Claerbout&lt;/a&gt; has been a leading geophysicist since the later half of the 20th Century. He pioneered the use of computers in processing and filtering seismic exploration data, eventually developing the field of time series analysis and seismic wave propagation. He is the founder of the &lt;a href=&#34;http://sep.stanford.edu/doku.php&#34; target=&#34;_blank&#34;&gt;Stanford Exploration Project (SEP)&lt;/a&gt;, the first geophysical research consortium funded by the oil and gas industry. He was one of the first scientists to emphasize that computational methods threaten the reproducibility of research unless open access is provided to both the data and the software underlying a publication. He developed &lt;a href=&#34;http://sep.stanford.edu/doku.php?id=sep:software:seplib&#34; target=&#34;_blank&#34;&gt;SEPlib&lt;/a&gt;, a complete and freely distributed seismic data processing software package.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://inside.mines.edu/~dhale/index.html&#34; target=&#34;_blank&#34;&gt;Dave Hale&lt;/a&gt; is a professor at the Colorado School of Mines and a former director of the &lt;a href=&#34;https://cwp.mines.edu/&#34; target=&#34;_blank&#34;&gt;Center for Wave Phenomena (CWP)&lt;/a&gt;. He received the Virgil Kauffman Gold Medal from the Society of Exploration Geophysicists (SEG) in 1989 for his work on dip-moveout (DMO) processing of seismic data. He developed &lt;a href=&#34;http://inside.mines.edu/~dhale/jtk/index.html&#34; target=&#34;_blank&#34;&gt;Mines Java Toolkit&lt;/a&gt;, an open-source software for scientific computing. He is also a major contributor of &lt;a href=&#34;https://github.com/JohnWStockwellJr/SeisUnix/wiki&#34; target=&#34;_blank&#34;&gt;Seismic Unix&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://sep.stanford.edu/sep/biondo/&#34; target=&#34;_blank&#34;&gt;Biondo Biondi&lt;/a&gt; is a professor of Geophysics at Stanford University. He published a book, &lt;a href=&#34;http://sep.stanford.edu/sep/claudio/3DSI-class.pdf&#34; target=&#34;_blank&#34;&gt;3-D Seismic Imaging&lt;/a&gt; , that is the first text book to introduce the theory of seismic imaging from the 3-D perspective. In 2004, the Society of Exploration Geophysicists (SEG) has honored Biondo with the Reginald Fessenden Award for his development of azimuthal moveout (AMO).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.jsg.utexas.edu/researcher/sergey_fomel/&#34; target=&#34;_blank&#34;&gt;Sergey Fomel&lt;/a&gt; is a professor at the Jackson School of Geosciences, the University of Texas at Austin, with a joint appointment between the Bureau of Economic Geology and the Department of Geological Sciences. He devotes part of his time to developing &lt;a href=&#34;http://www.ahay.org/&#34; target=&#34;_blank&#34;&gt;Madagascar&lt;/a&gt;, an open-source software package for geophysical data analysis.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://newton.mines.edu/paul/home.php&#34; target=&#34;_blank&#34;&gt;Paul Sava&lt;/a&gt; is a professor of Geophysics at Colorado School of Mines, where he is a PI and served as Director of the &lt;a href=&#34;https://cwp.mines.edu/&#34; target=&#34;_blank&#34;&gt;Center for Wave Phenomena (CWP)&lt;/a&gt; between 2014-2018. He is a recipient of the Reginald Fessenden Award from the Society of Exploration Geophysicists (SEG) in 2007 for his work on wave-equation angle-domain imaging.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://wiki.seg.org/wiki/Norman_Bleistein&#34; target=&#34;_blank&#34;&gt;Norman Bleistein&lt;/a&gt; one of the founders (with fellow mathematician &lt;a href=&#34;https://wiki.seg.org/wiki/Jack_Cohen&#34; target=&#34;_blank&#34;&gt;Jack K. Cohen&lt;/a&gt;) of the Center for Wave Phenomena (CWP) first at the University of Denver, which later relocated to the Colorado School of Mines. He is widely recognized as one of the world’s top mathematicians in exploration geophysics. He established true-amplitude Kirchhoff migration with mathematic rigor.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://wiki.seg.org/wiki/%C3%96z_Yilmaz&#34; target=&#34;_blank&#34;&gt;Öz Yilmaz&lt;/a&gt; is a leading geophysicist who authored a famous book &lt;a href=&#34;https://wiki.seg.org/wiki/Seismic_Data_Analysis&#34; target=&#34;_blank&#34;&gt;Seismic Data Analysis&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.utdallas.edu/geosciences/faculty/mcmechan.html&#34; target=&#34;_blank&#34;&gt;George A. McMechan&lt;/a&gt; is a professor at UT Dallas, where he founded &lt;a href=&#34;https://www.utdallas.edu/research/lithocenter/&#34; target=&#34;_blank&#34;&gt;The Center for Lithospheric Studies&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.lucabaradello.it/carcione/&#34; target=&#34;_blank&#34;&gt;José M. Carcione&lt;/a&gt; is a senior geophysicist at the &lt;a href=&#34;https://www.inogs.it/&#34; target=&#34;_blank&#34;&gt;OGS&lt;/a&gt;. He authored a famous book &lt;a href=&#34;https://www.elsevier.com/books/wave-fields-in-real-media/carcione/978-0-08-099999-9&#34; target=&#34;_blank&#34;&gt;Wave Fields in Real Media: Wave Propagation in Anisotropic, Anelastic, Porous and Electromagnetic Media&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.trip.caam.rice.edu/members/symes/william_symes.html&#34; target=&#34;_blank&#34;&gt;William W. Symes&lt;/a&gt; is a professor at Rice University, where he founded &lt;a href=&#34;http://www.trip.caam.rice.edu/&#34; target=&#34;_blank&#34;&gt;The Rice Inversion Project (TRIP)&lt;/a&gt; in 1992. He has worked in many areas of applied and numerical mathematics, including numerical methods for wave modeling, scientific software engineering, and theory of, and algorithms for, seismic inversion.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.crewes.org/Contact_Us/Gary/index.html&#34; target=&#34;_blank&#34;&gt;Gary F. Margrave&lt;/a&gt; is Emeritus Director of &lt;a href=&#34;https://www.crewes.org/&#34; target=&#34;_blank&#34;&gt;CREWES&lt;/a&gt;, and a major contributor of &lt;a href=&#34;https://www.crewes.org/ResearchLinks/FreeSoftware/&#34; target=&#34;_blank&#34;&gt;CREWES MATLAB Software Library (CMSL)&lt;/a&gt;. He authored a book &lt;a href=&#34;https://www.crewes.org/ResearchLinks/FreeSoftware/NumMeth.pdf&#34; target=&#34;_blank&#34;&gt;Numerical Methods of Exploration Seismology: With Algorithms in MATLAB&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://wiki.seg.org/wiki/Kristopher_Innanen&#34; target=&#34;_blank&#34;&gt;Kristopher Innanen&lt;/a&gt; is the director of &lt;a href=&#34;https://www.crewes.org/&#34; target=&#34;_blank&#34;&gt;CREWES&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://sites.ualberta.ca/~msacchi/&#34; target=&#34;_blank&#34;&gt;Mauricio D Sacchi&lt;/a&gt; is a professor of Geophysics at the University of Alberta. He is director of &lt;a href=&#34;https://saig.physics.ualberta.ca/doku.php&#34; target=&#34;_blank&#34;&gt;Signal Analysis and Imaging Group (SAIG)&lt;/a&gt;, which has become recognized for the development of algorithms for multi-dimensional seismic data reconstruction, de-noising and the application of sparsity promoting methods to seismic data processing. He also contributes to &lt;a href=&#34;http://seismic-lab.physics.ualberta.ca/&#34; target=&#34;_blank&#34;&gt;SeismicLab&lt;/a&gt;, a MATLAB seismic data processing package.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.slim.eos.ubc.ca/felix&#34; target=&#34;_blank&#34;&gt;Felix J. Herrmann&lt;/a&gt; is Director of &lt;a href=&#34;https://www.slim.eos.ubc.ca/&#34; target=&#34;_blank&#34;&gt;Seismic Laboratory for Imaging and Modelling (SLIM)&lt;/a&gt;, a widely recognized world leader in the development of the next generation of seismic acquisition and imaging technology for the oil &amp;amp; gas industry.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://jean-virieux.obs.ujf-grenoble.fr/&#34; target=&#34;_blank&#34;&gt;Jean Virieux&lt;/a&gt; is a professor at University Grenoble Alpes, and a core member of &lt;a href=&#34;https://seiscope2.osug.fr/?lang=en&#34; target=&#34;_blank&#34;&gt;SEISCOPE Consortium&lt;/a&gt;. He also maintains &lt;a href=&#34;https://seiscope2.osug.fr/SEISCOPE-OPTIMIZATION-TOOLBOX&#34; target=&#34;_blank&#34;&gt;SEISCOPE OPTIMIZATION TOOLBOX&lt;/a&gt;, a set of FORTRAN 90 optimization routines dedicated to the resolution of unconstrained and bound constrained nonlinear minimization problems.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.kaust.edu.sa/en/study/faculty/tariq-a-alkhalifah&#34; target=&#34;_blank&#34;&gt;Tariq Alkhalifah&lt;/a&gt; is a professor at KAUST. His research interests are in imaging and velocity model building for exploring seismic data with special emphasis on media that exhibit anisotropic behavior of wave propagation. He is the head of &lt;a href=&#34;https://swagroup.kaust.edu.sa/Pages/Home.aspx&#34; target=&#34;_blank&#34;&gt;Seismic Wave Analysis Group (SWAG)&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.kaust.edu.sa/en/study/faculty/gerard-schuster&#34; target=&#34;_blank&#34;&gt;Gerard Schuster&lt;/a&gt; is a professor at KAUST.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.princeton.edu/geosciences/tromp/people/&#34; target=&#34;_blank&#34;&gt;Jeroen Tromp&lt;/a&gt; is director of &lt;a href=&#34;http://www.princeton.edu/geosciences/tromp/index.xml&#34; target=&#34;_blank&#34;&gt;Theoretical &amp;amp; Computational Seismology&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://pangea.stanford.edu/~edunham/&#34; target=&#34;_blank&#34;&gt;Eric M. Dunham&lt;/a&gt; is an associate professor at Stanford university.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.cos.ethz.ch/people/person-detail.html?persid=189884&#34; target=&#34;_blank&#34;&gt;Andreas Fichtner&lt;/a&gt; is Associate Professor for &lt;a href=&#34;http://www.cos.ethz.ch/&#34; target=&#34;_blank&#34;&gt;Seismology and Wave Physics&lt;/a&gt; at the Swiss Federal Institute of Technology (ETH) in Zurich.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.mn.uio.no/ifi/english/people/aca/sverre/index.html&#34; target=&#34;_blank&#34;&gt;Sverre Holm&lt;/a&gt; is a professor of acoustic imaging and signal processing at the University of Oslo. He authored the book &lt;a href=&#34;https://www.springer.com/gp/book/9783030149260&#34; target=&#34;_blank&#34;&gt;Waves with Power-Law Attenuation&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://bug.medphys.ucl.ac.uk/bradley-treeby&#34; target=&#34;_blank&#34;&gt;Bradley Treeby&lt;/a&gt; is a PI at &lt;a href=&#34;http://bug.medphys.ucl.ac.uk/&#34; target=&#34;_blank&#34;&gt;Biomedical Ultrasound Group&lt;/a&gt;. He is a major contributor to &lt;a href=&#34;http://www.k-wave.org/&#34; target=&#34;_blank&#34;&gt;k-Wave&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.leouieda.com/&#34; target=&#34;_blank&#34;&gt;Leonardo Uieda&lt;/a&gt; is a core member of &lt;a href=&#34;https://www.pinga-lab.org/&#34; target=&#34;_blank&#34;&gt;PINGA&lt;/a&gt;. He is a major contributor of &lt;a href=&#34;https://www.fatiando.org/&#34; target=&#34;_blank&#34;&gt;Fatiando a Terra&lt;/a&gt; and &lt;a href=&#34;http://tesseroids.leouieda.com/en/stable/&#34; target=&#34;_blank&#34;&gt;Tesseroids&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.fwagner.info/&#34; target=&#34;_blank&#34;&gt;Florian M. Wagner&lt;/a&gt; is a geophysical research associate at the University of Bonn, Germany.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://sites.google.com/asu.edu/chelseascott/home?authuser=0&#34; target=&#34;_blank&#34;&gt;Chelsea Scott&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://yangpl.wordpress.com/&#34; target=&#34;_blank&#34;&gt;Pengliang Yang&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://msu.edu/~tiandong/&#34; target=&#34;_blank&#34;&gt;Dongdong Tian&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://seispider.top/&#34; target=&#34;_blank&#34;&gt;Xiao Xiao&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.ntu.edu.sg/home/jiayuanyao/&#34; target=&#34;_blank&#34;&gt;Jiayuan Yao&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://web.gps.caltech.edu/~yucq/index.html&#34; target=&#34;_blank&#34;&gt;Chunquan Yu&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://lindseyjh.ca/&#34; target=&#34;_blank&#34;&gt;Lindsey J Heagy&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://tobiaskeller.wixsite.com/myresearch&#34; target=&#34;_blank&#34;&gt;Tobias Keller&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.mit.edu/~yunyueli/&#34; target=&#34;_blank&#34;&gt;Yunyue &amp;ldquo;Elita&amp;rdquo; Li&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://sites.psu.edu/tzhu/&#34; target=&#34;_blank&#34;&gt;Tieyuan Zhu&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.jsg.utexas.edu/wu&#34; target=&#34;_blank&#34;&gt;Xinming Wu&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.tcd.ie/Physics/research/groups/mobius/&#34; target=&#34;_blank&#34;&gt;Matthias Möbius&lt;/a&gt; is an Assistant Professor at Trinity College Dublin, he provides nice &lt;a href=&#34;https://www.tcd.ie/Physics/research/groups/mobius/teaching/&#34; target=&#34;_blank&#34;&gt;Teaching material for Numerical methods&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;geophysics-group&#34;&gt;Geophysics Group&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://sep.stanford.edu/doku.php&#34; target=&#34;_blank&#34;&gt;Stanford Exploration Project (SEP)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://cwp.mines.edu/&#34; target=&#34;_blank&#34;&gt;Center for Wave Phenomena (CWP)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.trip.caam.rice.edu/&#34; target=&#34;_blank&#34;&gt;The Rice Inversion Project (TRIP)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.crewes.org/&#34; target=&#34;_blank&#34;&gt;CREWES&lt;/a&gt; is an applied geophysical research group concentrating on the acquisition, analysis and interpretation of multicomponent seismic data.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://saig.physics.ualberta.ca/doku.php&#34; target=&#34;_blank&#34;&gt;Signal Analysis and Imaging Group (SAIG)&lt;/a&gt; consortium at the University of Alberta is recognized for the development of algorithms for multi-dimensional seismic data reconstruction, de-noising and the application of sparsity promoting methods to seismic data processing.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.slim.eos.ubc.ca/&#34; target=&#34;_blank&#34;&gt;Seismic Laboratory for Imaging and Modelling (SLIM)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://seiscope2.osug.fr/?lang=en&#34; target=&#34;_blank&#34;&gt;SEISCOPE Consortium&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.gpi.kit.edu/english/GPIatKIT.php&#34; target=&#34;_blank&#34;&gt;Geophysical Institute (GPI) at KIT&lt;/a&gt; develop open-source software on &lt;a href=&#34;https://git.scc.kit.edu/GPIAG-Software&#34; target=&#34;_blank&#34;&gt;GPIAG&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.wit.uni-hamburg.de/en.html&#34; target=&#34;_blank&#34;&gt;Wave Inversion Technology (WIT)&lt;/a&gt; aims to develop the most accurate and efficient seismic modelling, imaging, and inversion using elastic and acoustic methods including high-performance computing environments.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.utdallas.edu/research/lithocenter/&#34; target=&#34;_blank&#34;&gt;The Center for Lithospheric Studies&lt;/a&gt; is a research institute devoted to the study of the lithosphere through geophysical and geochemical means.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://bug.medphys.ucl.ac.uk/&#34; target=&#34;_blank&#34;&gt;Biomedical Ultrasound Group&lt;/a&gt; aim to bring together researchers in acoustics, medical physics, and computer science with doctors and front-line users in medicine and the life sciences. They develop an open-source acoustics toolbox &lt;a href=&#34;http://www.k-wave.org/&#34; target=&#34;_blank&#34;&gt;k-Wave&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://groupeliamg.github.io/index_en.html&#34; target=&#34;_blank&#34;&gt;LIAMG&lt;/a&gt; develop &lt;a href=&#34;https://github.com/groupeLIAMG/bh_tomo&#34; target=&#34;_blank&#34;&gt;BH TOMO&lt;/a&gt;, an open source borehole georadar/seismic data processing and ray-based 2D and 3D tomography software package written in MATLAB and Python.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.pinga-lab.org/&#34; target=&#34;_blank&#34;&gt;PINGA&lt;/a&gt; is a research group for inverse problems in geophysics.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://swagroup.kaust.edu.sa/Pages/Home.aspx&#34; target=&#34;_blank&#34;&gt;Seismic Wave Analysis Group (SWAG)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.cos.ethz.ch/&#34; target=&#34;_blank&#34;&gt;Seismology and Wave Physics&lt;/a&gt; uses state-of-the-art numerical techniques and modern high-performance computing in order to characterise 3D Earth structure and seismic sources.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;geophysics-softwares&#34;&gt;Geophysics Softwares&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://sep.stanford.edu/doku.php?id=sep:software:seplib&#34; target=&#34;_blank&#34;&gt;SEPlib&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/JohnWStockwellJr/SeisUnix/wiki&#34; target=&#34;_blank&#34;&gt;Seismic Unix&lt;/a&gt; is an open source seismic utilities package which was supported by the Center for Wave Phenomena (CWP) at the Colorado School of Mines (CSM). Currently it is supported by &lt;a href=&#34;https://wiki.seg.org/wiki/John_Stockwell_Jr.&#34; target=&#34;_blank&#34;&gt;John Stockwell&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.ahay.org/&#34; target=&#34;_blank&#34;&gt;Madagascar&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://inside.mines.edu/~dhale/jtk/index.html&#34; target=&#34;_blank&#34;&gt;Mines Java Toolkit&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.crewes.org/ResearchLinks/FreeSoftware/&#34; target=&#34;_blank&#34;&gt;CREWES MATLAB Software Library (CMSL)&lt;/a&gt; is a large collection of geophysical codes that has grown by accretion over time with limited planning or regulation.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://seismic-lab.physics.ualberta.ca/&#34; target=&#34;_blank&#34;&gt;SeismicLab&lt;/a&gt; is a MATLAB seismic data processing package.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://seiscope2.osug.fr/SEISCOPE-OPTIMIZATION-TOOLBOX&#34; target=&#34;_blank&#34;&gt;SEISCOPE OPTIMIZATION TOOLBOX&lt;/a&gt; is a set of FORTRAN 90 optimization routines dedicated to the resolution of unconstrained and bound constrained nonlinear minimization problems.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://sgems.sourceforge.net/&#34; target=&#34;_blank&#34;&gt;The Stanford Geostatistical Modeling Software (SGeMS)&lt;/a&gt; is an open-source computer package for solving problems involving spatially related variables.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.k-wave.org/&#34; target=&#34;_blank&#34;&gt;k-Wave&lt;/a&gt; is an open-source acoustics toolbox.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;open-data&#34;&gt;Open data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://wiki.seg.org/wiki/Open_data&#34; target=&#34;_blank&#34;&gt;Open data&lt;/a&gt; lists geophysical data that is readily available for download from the internet, via mail, or through special request.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://software.seg.org/&#34; target=&#34;_blank&#34;&gt;Geophysical Software and Algorithms&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/CAGEO&#34; target=&#34;_blank&#34;&gt;Computers &amp;amp; Geosciences: forked code repositories&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/softwareunderground/awesome-open-geoscience&#34; target=&#34;_blank&#34;&gt;Awesome Open Geoscience&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;websites&#34;&gt;Websites&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://geodynamics.org/cig/&#34; target=&#34;_blank&#34;&gt;Computational Infrastructure for Geodynamics (CIG)&lt;/a&gt; is a community-driven organization that advances Earth science by developing and disseminating software for geophysics and related fields.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://softwareunderground.org/&#34; target=&#34;_blank&#34;&gt;Software Underground&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://csegrecorder.com/interviews/&#34; target=&#34;_blank&#34;&gt;Interviews with geophysics&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>$Q$-compensated viscoelastic reverse-time migration using mode-dependent adaptive stabilization scheme</title>
+      <link>https://super-messiah.github.io/publication/staqertm/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://super-messiah.github.io/publication/staqertm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>  Seismic attenuation models: multiple and fractional generalizations</title>
+      <link>https://super-messiah.github.io/talk/2019-swp-4/</link>
+      <pubDate>Tue, 05 Mar 2019 10:00:00 -0800</pubDate>
+      
+      <guid>https://super-messiah.github.io/talk/2019-swp-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A generalized stabilization scheme for seismic Q compensation</title>
+      <link>https://super-messiah.github.io/talk/2019-swp-3/</link>
+      <pubDate>Tue, 29 Jan 2019 10:00:00 -0800</pubDate>
+      
+      <guid>https://super-messiah.github.io/talk/2019-swp-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cu$Q$-RTM: A CUDA-based code package for stable and efficient $Q$-compensated RTM</title>
+      <link>https://super-messiah.github.io/publication/cuqrtm/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://super-messiah.github.io/publication/cuqrtm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Seismic attenuation compensation via inversion and imaging</title>
+      <link>https://super-messiah.github.io/talk/2018-swp-2/</link>
+      <pubDate>Fri, 30 Nov 2018 10:00:00 -0800</pubDate>
+      
+      <guid>https://super-messiah.github.io/talk/2018-swp-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An overview of fractional attenuation models in exploration geophysics</title>
+      <link>https://super-messiah.github.io/talk/2018-swp-1/</link>
+      <pubDate>Tue, 06 Nov 2018 10:00:00 -0800</pubDate>
+      
+      <guid>https://super-messiah.github.io/talk/2018-swp-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$L_{1−2}$ minimization for exact and stable seismic attenuation compensation</title>
+      <link>https://super-messiah.github.io/publication/l1-2minimization/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://super-messiah.github.io/publication/l1-2minimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive stabilization for $Q$-compensated reverse time migration</title>
+      <link>https://super-messiah.github.io/publication/staqrtm/</link>
+      <pubDate>Tue, 14 Nov 2017 00:00:00 -0800</pubDate>
+      
+      <guid>https://super-messiah.github.io/publication/staqrtm/</guid>
+      <description>
+
+&lt;h2 id=&#34;highlights&#34;&gt;Highlights&lt;/h2&gt;
+
+&lt;p&gt;This research is highlighted in &lt;a href=&#34;https://library.seg.org/doi/10.1190/tle37020152.1&#34; target=&#34;_blank&#34;&gt;The Leading Edge&lt;/a&gt; as Geophysics Bright Spots Paper by Geophysics Editors. Click &lt;a href=&#34;Geophysics Bright Spots.pdf&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;far fa-file-pdf&#34;&gt;&lt;/i&gt;&lt;/a&gt; to download the PDF version.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Three-Operator Proximal Splitting Scheme for 3-D Seismic Data Reconstruction</title>
+      <link>https://super-messiah.github.io/publication/tops/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://super-messiah.github.io/publication/tops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Journey on Madagascar and Reproducible Research</title>
+      <link>https://super-messiah.github.io/talk/2017-madagascar/</link>
+      <pubDate>Tue, 11 Jul 2017 16:00:00 -0700</pubDate>
+      
+      <guid>https://super-messiah.github.io/talk/2017-madagascar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Yufeng Wang</title>
+    <link>https://super-messiah.github.io/post/</link>
+    <description>Recent content in Posts on Yufeng Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 - {year} Yufeng Wang</copyright>
+    <lastBuildDate>Thu, 16 May 2019 09:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://super-messiah.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>test</title>
+      <link>https://super-messiah.github.io/post/test/</link>
+      <pubDate>Thu, 16 May 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://super-messiah.github.io/post/test/</guid>
+      <description>Here I list some online learning platforms.</description>
+    </item>
+    
+    <item>
+      <title>Some online learning platforms</title>
+      <link>https://super-messiah.github.io/post/20190509-online-learning-platform/</link>
+      <pubDate>Wed, 08 May 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://super-messiah.github.io/post/20190509-online-learning-platform/</guid>
+      <description>Here I list some online learning platforms.</description>
+    </item>
+    
+    <item>
+      <title>Tools and Softwares for adademic reserach</title>
+      <link>https://super-messiah.github.io/post/20190508-tools-and-softwares/</link>
+      <pubDate>Wed, 08 May 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://super-messiah.github.io/post/20190508-tools-and-softwares/</guid>
+      <description>Here I list some tools and softwares that I used in my research.</description>
+    </item>
+    
+    <item>
+      <title>Deep learning Frameworks</title>
+      <link>https://super-messiah.github.io/post/20190507-deeplearning-frameworks/</link>
+      <pubDate>Tue, 07 May 2019 22:08:03 -0700</pubDate>
+      
+      <guid>https://super-messiah.github.io/post/20190507-deeplearning-frameworks/</guid>
+      <description>Here I list some widely used deep learning frameworks.</description>
+    </item>
+    
+    <item>
+      <title>Useful links in Computer Science</title>
+      <link>https://super-messiah.github.io/post/20190507-useful-links-in-computer-science/</link>
+      <pubDate>Tue, 07 May 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://super-messiah.github.io/post/20190507-useful-links-in-computer-science/</guid>
+      <description>Here I list some useful links in computer science, which contains profiles of companies, softwares, and homepages.</description>
+    </item>
+    
+    <item>
+      <title>Website generators</title>
+      <link>https://super-messiah.github.io/post/20190507-website-generators/</link>
+      <pubDate>Tue, 07 May 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://super-messiah.github.io/post/20190507-website-generators/</guid>
+      <description>Here I list some website generators.</description>
+    </item>
+    
+    <item>
+      <title>Useful links in Applied Mathematics</title>
+      <link>https://super-messiah.github.io/post/20190506-useful-links-in-applied-mathematics/</link>
+      <pubDate>Mon, 06 May 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://super-messiah.github.io/post/20190506-useful-links-in-applied-mathematics/</guid>
+      <description>Here I list some useful links in applied mathematics, which contains profiles of applied mathematicians, academic group, and open source softwares.</description>
+    </item>
+    
+    <item>
+      <title>Useful links in Geophysics</title>
+      <link>https://super-messiah.github.io/post/20190503-useful-links-in-geophysics/</link>
+      <pubDate>Fri, 03 May 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://super-messiah.github.io/post/20190503-useful-links-in-geophysics/</guid>
+      <description>Here I list some useful links in geophysics, which contains profiles of geophysicists, academic group, open source softwares and data.</description>
+    </item>
+    
+  </channel>
+</rss>

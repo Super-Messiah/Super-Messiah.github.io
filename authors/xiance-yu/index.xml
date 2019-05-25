@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiance Yu on Yufeng Wang</title>
+    <link>https://super-messiah.github.io/authors/xiance-yu/</link>
+    <description>Recent content in Xiance Yu on Yufeng Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 - {year} Yufeng Wang</copyright>
+    <lastBuildDate>Fri, 21 Dec 2018 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://super-messiah.github.io/authors/xiance-yu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cu$Q$-RTM: A CUDA-based code package for stable and efficient $Q$-compensated RTM</title>
+      <link>https://super-messiah.github.io/publication/cuqrtm/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://super-messiah.github.io/publication/cuqrtm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

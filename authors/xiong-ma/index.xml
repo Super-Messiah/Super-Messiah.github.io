@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiong Ma on Yufeng Wang</title>
+    <link>https://super-messiah.github.io/authors/xiong-ma/</link>
+    <description>Recent content in Xiong Ma on Yufeng Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 - {year} Yufeng Wang</copyright>
+    <lastBuildDate>Mon, 19 Feb 2018 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://super-messiah.github.io/authors/xiong-ma/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>$L_{1−2}$ minimization for exact and stable seismic attenuation compensation</title>
+      <link>https://super-messiah.github.io/publication/l1-2minimization/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://super-messiah.github.io/publication/l1-2minimization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

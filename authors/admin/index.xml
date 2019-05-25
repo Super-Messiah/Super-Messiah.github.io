@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on Yufeng Wang</title>
+    <link>https://super-messiah.github.io/authors/admin/</link>
+    <description>Recent content in admin on Yufeng Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 - {year} Yufeng Wang</copyright>
+    
+	<atom:link href="https://super-messiah.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://super-messiah.github.io/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://super-messiah.github.io/author/admin/</guid>
+      <description>I am currently a Visiting Student Researcher in Geophysics at Stanford University, collaboration with Prof. Jerry M. Harris. I am also a Ph.D. Candidate in Geophysics at China University of Petroleum, Beijing advised by Prof. Hui Zhou.
+My research interests span the areas of seismic modeling, imaging and inversion, seismic signal processing, high performance computing, and deep learning. A common thread in my research is in understanding wave propagation in attenuating media and design of the state-of-the-art algorithms and general framework to compensate the subsurface $Q$ filtering effects, so as to achieve high-fidelity seismic profiles and images.</description>
+    </item>
+    
+  </channel>
+</rss>

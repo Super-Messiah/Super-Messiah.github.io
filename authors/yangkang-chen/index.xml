@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yangkang Chen on Yufeng Wang</title>
+    <link>https://super-messiah.github.io/authors/yangkang-chen/</link>
+    <description>Recent content in Yangkang Chen on Yufeng Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 - {year} Yufeng Wang</copyright>
+    <lastBuildDate>Fri, 29 Mar 2019 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://super-messiah.github.io/authors/yangkang-chen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>$Q$-compensated viscoelastic reverse-time migration using mode-dependent adaptive stabilization scheme</title>
+      <link>https://super-messiah.github.io/publication/staqertm/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://super-messiah.github.io/publication/staqertm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cu$Q$-RTM: A CUDA-based code package for stable and efficient $Q$-compensated RTM</title>
+      <link>https://super-messiah.github.io/publication/cuqrtm/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://super-messiah.github.io/publication/cuqrtm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$L_{1−2}$ minimization for exact and stable seismic attenuation compensation</title>
+      <link>https://super-messiah.github.io/publication/l1-2minimization/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://super-messiah.github.io/publication/l1-2minimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive stabilization for $Q$-compensated reverse time migration</title>
+      <link>https://super-messiah.github.io/publication/staqrtm/</link>
+      <pubDate>Tue, 14 Nov 2017 00:00:00 -0800</pubDate>
+      
+      <guid>https://super-messiah.github.io/publication/staqrtm/</guid>
+      <description>We develop a novel adaptive stabilization method for $Q$-compensated RTM ($Q$-RTM), which exhibits superior properties of time-variance and $Q$-dependence over conventional low-pass filtering based method. We derive the stabilization operator by first analytically derive k-space Green&amp;rsquo;s functions for constant-$Q$ wave equation with decoupled fractional Laplacians (DFLs) and its compensated equation.</description>
+    </item>
+    
+    <item>
+      <title>Three-Operator Proximal Splitting Scheme for 3-D Seismic Data Reconstruction</title>
+      <link>https://super-messiah.github.io/publication/tops/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://super-messiah.github.io/publication/tops/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deep learning on Yufeng Wang</title>
+    <link>https://super-messiah.github.io/tags/deep-learning/</link>
+    <description>Recent content in deep learning on Yufeng Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 - {year} Yufeng Wang</copyright>
+    <lastBuildDate>Tue, 07 May 2019 22:08:03 -0700</lastBuildDate>
+    
+	<atom:link href="https://super-messiah.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep learning</title>
+      <link>https://super-messiah.github.io/project/deep-learning/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://super-messiah.github.io/project/deep-learning/</guid>
+      <description>The task of training a deep learning algorithm to accurately identify a nonlinear map from a few and potentially very high-dimensional input and output data pairs seems at best naive. Coming to our rescue, for many cases pertaining to the modeling of physical systems, there exists a vast amount of prior knowledge such as the principled physical laws that govern the time-dependent dynamics of a system. Encoding such structured information into a learning algorithm results in amplifying the information content of the data that the algorithm sees, enabling it to quickly steer itself towards the right solution and generalize well even when only a few training examples are available.</description>
+    </item>
+    
+    <item>
+      <title>Deep learning Frameworks</title>
+      <link>https://super-messiah.github.io/post/20190507-deeplearning-frameworks/</link>
+      <pubDate>Tue, 07 May 2019 22:08:03 -0700</pubDate>
+      
+      <guid>https://super-messiah.github.io/post/20190507-deeplearning-frameworks/</guid>
+      <description>Here I list some widely used deep learning frameworks.</description>
+    </item>
+    
+    <item>
+      <title>Useful links in Computer Science</title>
+      <link>https://super-messiah.github.io/post/20190507-useful-links-in-computer-science/</link>
+      <pubDate>Tue, 07 May 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://super-messiah.github.io/post/20190507-useful-links-in-computer-science/</guid>
+      <description>Here I list some useful links in computer science, which contains profiles of companies, softwares, and homepages.</description>
+    </item>
+    
+  </channel>
+</rss>

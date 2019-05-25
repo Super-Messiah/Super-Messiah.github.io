@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shaohuan Zu on Yufeng Wang</title>
+    <link>https://super-messiah.github.io/authors/shaohuan-zu/</link>
+    <description>Recent content in Shaohuan Zu on Yufeng Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 - {year} Yufeng Wang</copyright>
+    <lastBuildDate>Tue, 29 Aug 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://super-messiah.github.io/authors/shaohuan-zu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Three-Operator Proximal Splitting Scheme for 3-D Seismic Data Reconstruction</title>
+      <link>https://super-messiah.github.io/publication/tops/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://super-messiah.github.io/publication/tops/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://super-messiah.github.io/project/seismic-attenuation-models/</loc>
+    <lastmod>2018-04-29T21:03:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/project/seismic-q-compensation/</loc>
+    <lastmod>2019-05-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/project/high-performance-computing/</loc>
+    <lastmod>2019-05-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/project/seismic-signal-processing/</loc>
+    <lastmod>2019-05-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/project/deep-learning/</loc>
+    <lastmod>2019-05-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/post/</loc>
+    <lastmod>2019-05-16T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/tags/</loc>
+    <lastmod>2019-05-16T09:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/</loc>
+    <lastmod>2019-05-16T09:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/tags/online/</loc>
+    <lastmod>2019-05-16T09:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/post/test/</loc>
+    <lastmod>2019-05-16T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/post/20190509-online-learning-platform/</loc>
+    <lastmod>2019-05-08T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/post/20190508-tools-and-softwares/</loc>
+    <lastmod>2019-05-08T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/tags/softwares/</loc>
+    <lastmod>2019-05-08T09:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/tags/tools/</loc>
+    <lastmod>2019-05-08T09:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/post/20190507-deeplearning-frameworks/</loc>
+    <lastmod>2019-05-07T22:08:03-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/tags/cs/</loc>
+    <lastmod>2019-05-07T22:08:03-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/tags/deep-learning/</loc>
+    <lastmod>2019-05-07T22:08:03-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/post/20190507-useful-links-in-computer-science/</loc>
+    <lastmod>2019-05-07T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/post/20190507-website-generators/</loc>
+    <lastmod>2019-05-07T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/tags/website/</loc>
+    <lastmod>2019-05-07T09:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/post/20190506-useful-links-in-applied-mathematics/</loc>
+    <lastmod>2019-05-06T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/tags/mathematics/</loc>
+    <lastmod>2019-05-06T09:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/post/20190503-useful-links-in-geophysics/</loc>
+    <lastmod>2019-05-03T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/tags/geophysics/</loc>
+    <lastmod>2019-05-03T09:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/tags/high-performance-computing/</loc>
+    <lastmod>2019-05-02T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/project/</loc>
+    <lastmod>2019-05-02T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/tags/seismic-q-compensation/</loc>
+    <lastmod>2019-05-02T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/tags/seismic-signal-processing/</loc>
+    <lastmod>2019-05-02T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/publication/staqertm/</loc>
+    <lastmod>2019-03-29T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/authors/yufeng-wang/</loc>
+    <lastmod>2019-03-29T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/publication_types/2/</loc>
+    <lastmod>2019-03-29T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/authors/</loc>
+    <lastmod>2019-03-29T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/authors/hui-zhou/</loc>
+    <lastmod>2019-03-29T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/publication_types/</loc>
+    <lastmod>2019-03-29T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/publication/</loc>
+    <lastmod>2019-03-29T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/authors/qingchen-zhang/</loc>
+    <lastmod>2019-03-29T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/authors/xuebin-zhao/</loc>
+    <lastmod>2019-03-29T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/authors/yangkang-chen/</loc>
+    <lastmod>2019-03-29T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/talk/2019-swp-4/</loc>
+    <lastmod>2019-03-05T10:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/talk/</loc>
+    <lastmod>2019-03-05T10:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/talk/2019-swp-3/</loc>
+    <lastmod>2019-01-29T10:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/publication/cuqrtm/</loc>
+    <lastmod>2018-12-21T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/authors/poru-zhao/</loc>
+    <lastmod>2018-12-21T00:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/authors/xiance-yu/</loc>
+    <lastmod>2018-12-21T00:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/talk/2018-swp-2/</loc>
+    <lastmod>2018-11-30T10:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/talk/2018-swp-1/</loc>
+    <lastmod>2018-11-06T10:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/tags/seismic-attenuation-models/</loc>
+    <lastmod>2018-04-29T21:03:21+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/publication/l1-2minimization/</loc>
+    <lastmod>2018-02-19T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/authors/xiong-ma/</loc>
+    <lastmod>2018-02-19T00:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/publication/staqrtm/</loc>
+    <lastmod>2017-11-14T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/authors/hanming-chen/</loc>
+    <lastmod>2017-11-14T00:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/authors/shaohuan-zu/</loc>
+    <lastmod>2017-08-29T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/publication/tops/</loc>
+    <lastmod>2017-08-29T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/authors/weijian-mao/</loc>
+    <lastmod>2017-08-29T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/talk/2017-madagascar/</loc>
+    <lastmod>2017-07-11T16:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/author/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/author/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://super-messiah.github.io/authors/admin/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
