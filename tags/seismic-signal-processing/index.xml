@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seismic signal processing on Yufeng Wang</title>
-    <link>https://super-messiah.github.io/tags/seismic-signal-processing/</link>
+    <link>https://Super-Messiah.github.io/tags/seismic-signal-processing/</link>
     <description>Recent content in Seismic signal processing on Yufeng Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 - {year} Yufeng Wang</copyright>
     <lastBuildDate>Thu, 02 May 2019 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="https://super-messiah.github.io/tags/seismic-signal-processing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Super-Messiah.github.io/tags/seismic-signal-processing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Seismic signal processing</title>
-      <link>https://super-messiah.github.io/project/seismic-signal-processing/</link>
+      <link>https://Super-Messiah.github.io/project/seismic-signal-processing/</link>
       <pubDate>Thu, 02 May 2019 00:00:00 -0700</pubDate>
       
-      <guid>https://super-messiah.github.io/project/seismic-signal-processing/</guid>
+      <guid>https://Super-Messiah.github.io/project/seismic-signal-processing/</guid>
       <description>If you step deep into applied mathematics, you will find many great algorithms, such as Compressed Sensing, Dictionary Learning, Operator Splitting, and Nonconvex Optimization, developed by brilliant applied mathematicians. I apply and improve these algorithms to process seismic data.</description>
     </item>
     

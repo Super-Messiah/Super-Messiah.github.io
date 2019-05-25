@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yufeng Wang</title>
-    <link>https://super-messiah.github.io/</link>
+    <link>https://Super-Messiah.github.io/</link>
     <description>Recent content on Yufeng Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 - {year} Yufeng Wang</copyright>
     <lastBuildDate>Thu, 16 May 2019 09:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://super-messiah.github.io/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://Super-Messiah.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Seismic attenuation models</title>
-      <link>https://super-messiah.github.io/project/seismic-attenuation-models/</link>
+      <link>https://Super-Messiah.github.io/project/seismic-attenuation-models/</link>
       <pubDate>Sun, 29 Apr 2018 21:03:21 +0800</pubDate>
       
-      <guid>https://super-messiah.github.io/project/seismic-attenuation-models/</guid>
+      <guid>https://Super-Messiah.github.io/project/seismic-attenuation-models/</guid>
       <description>
 
 &lt;p&gt;Wave propagation in subsurface media typically exhibits frequency-dependent absorption and dispersion due to the presence of attenuation mechanism. Such an intrinsic attenuation property can be empirically characterized either by ex- perimentally established frequency power law or by physically based mechanical models over a wide range of frequencies. Recently, increasing papers present a variety of fractional models that have the ability to describe seismic attenuation with memory property or non-locality.&lt;/p&gt;
@@ -32,10 +32,10 @@
     
     <item>
       <title>Seismic $Q$ compensation</title>
-      <link>https://super-messiah.github.io/project/seismic-q-compensation/</link>
+      <link>https://Super-Messiah.github.io/project/seismic-q-compensation/</link>
       <pubDate>Thu, 02 May 2019 00:00:00 -0700</pubDate>
       
-      <guid>https://super-messiah.github.io/project/seismic-q-compensation/</guid>
+      <guid>https://Super-Messiah.github.io/project/seismic-q-compensation/</guid>
       <description>
 
 &lt;p&gt;When seismic waves travel through the earth subsurface, the absorption and dispersion caused by the anelasticity of the subsurface will inevitably degrade the quality of seismograms, decrease the resolution of migrated images, and eventually affect the reliability of seismic interpretation.  It is essential to compensate amplitude loss and phase distortion. In general, attenuation compensation in geophysics can be roughly classified into two categories: seismic record-based compensation and propagation-based compensation.&lt;/p&gt;
@@ -90,10 +90,10 @@
     
     <item>
       <title>High-performance computing</title>
-      <link>https://super-messiah.github.io/project/high-performance-computing/</link>
+      <link>https://Super-Messiah.github.io/project/high-performance-computing/</link>
       <pubDate>Thu, 02 May 2019 00:00:00 -0700</pubDate>
       
-      <guid>https://super-messiah.github.io/project/high-performance-computing/</guid>
+      <guid>https://Super-Messiah.github.io/project/high-performance-computing/</guid>
       <description>
 
 &lt;h2 id=&#34;cu-q-rtm&#34;&gt;cu$Q$-RTM&lt;/h2&gt;
@@ -102,10 +102,10 @@
     
     <item>
       <title>Seismic signal processing</title>
-      <link>https://super-messiah.github.io/project/seismic-signal-processing/</link>
+      <link>https://Super-Messiah.github.io/project/seismic-signal-processing/</link>
       <pubDate>Thu, 02 May 2019 00:00:00 -0700</pubDate>
       
-      <guid>https://super-messiah.github.io/project/seismic-signal-processing/</guid>
+      <guid>https://Super-Messiah.github.io/project/seismic-signal-processing/</guid>
       <description>
 
 &lt;h2 id=&#34;tops&#34;&gt;TOPS&lt;/h2&gt;
@@ -118,10 +118,10 @@
     
     <item>
       <title>Deep learning</title>
-      <link>https://super-messiah.github.io/project/deep-learning/</link>
+      <link>https://Super-Messiah.github.io/project/deep-learning/</link>
       <pubDate>Thu, 02 May 2019 00:00:00 -0700</pubDate>
       
-      <guid>https://super-messiah.github.io/project/deep-learning/</guid>
+      <guid>https://Super-Messiah.github.io/project/deep-learning/</guid>
       <description>
 
 &lt;p&gt;In the course of analyzing complex geophysical systems, the apeture and density of data acquisition is limited, and we are inevitably faced with the challenge of inverting subsurface properties and imaging subsurface structures under partial information. In this small data regime, the vast majority of state-of-the-art machine learning techniques (e.g., deep/convolutional/recurrent neural networks) are lacking robustness and fail to provide any guarantees of convergence. In this project, I apply &lt;a href=&#34;https://maziarraissi.github.io/research/1_physics_informed_neural_networks/&#34; target=&#34;_blank&#34;&gt;physics informed neural networks (PINNs)&lt;/a&gt; that are trained to solve supervised learning tasks while respecting any given law of physics described by general nonlinear partial differential equations (PDEs) to seismic modeling, inversion and imaging.&lt;/p&gt;
@@ -134,10 +134,10 @@
     
     <item>
       <title>test</title>
-      <link>https://super-messiah.github.io/post/test/</link>
+      <link>https://Super-Messiah.github.io/post/test/</link>
       <pubDate>Thu, 16 May 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://super-messiah.github.io/post/test/</guid>
+      <guid>https://Super-Messiah.github.io/post/test/</guid>
       <description>
 
 &lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;
@@ -717,10 +717,10 @@ The final element.
     
     <item>
       <title>Some online learning platforms</title>
-      <link>https://super-messiah.github.io/post/20190509-online-learning-platform/</link>
+      <link>https://Super-Messiah.github.io/post/20190509-online-learning-platform/</link>
       <pubDate>Wed, 08 May 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://super-messiah.github.io/post/20190509-online-learning-platform/</guid>
+      <guid>https://Super-Messiah.github.io/post/20190509-online-learning-platform/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/&#34; target=&#34;_blank&#34;&gt;Coursera&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
@@ -741,10 +741,10 @@ The final element.
     
     <item>
       <title>Tools and Softwares for adademic reserach</title>
-      <link>https://super-messiah.github.io/post/20190508-tools-and-softwares/</link>
+      <link>https://Super-Messiah.github.io/post/20190508-tools-and-softwares/</link>
       <pubDate>Wed, 08 May 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://super-messiah.github.io/post/20190508-tools-and-softwares/</guid>
+      <guid>https://Super-Messiah.github.io/post/20190508-tools-and-softwares/</guid>
       <description>
 
 &lt;h2 id=&#34;server-command&#34;&gt;Server command&lt;/h2&gt;
@@ -886,10 +886,10 @@ source $HOME/intel/composer_xe_2015.0.090/mkl/bin/mklvars.sh intel64
     
     <item>
       <title>Deep learning Frameworks</title>
-      <link>https://super-messiah.github.io/post/20190507-deeplearning-frameworks/</link>
+      <link>https://Super-Messiah.github.io/post/20190507-deeplearning-frameworks/</link>
       <pubDate>Tue, 07 May 2019 22:08:03 -0700</pubDate>
       
-      <guid>https://super-messiah.github.io/post/20190507-deeplearning-frameworks/</guid>
+      <guid>https://Super-Messiah.github.io/post/20190507-deeplearning-frameworks/</guid>
       <description>&lt;p&gt;A deep learning framework is an interface, library or a tool which allows us to build deep learning models more easily and quickly, without getting into the details of underlying algorithms. They provide a clear and concise way for defining models using a collection of pre-built and optimized components.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -906,10 +906,10 @@ source $HOME/intel/composer_xe_2015.0.090/mkl/bin/mklvars.sh intel64
     
     <item>
       <title>Useful links in Computer Science</title>
-      <link>https://super-messiah.github.io/post/20190507-useful-links-in-computer-science/</link>
+      <link>https://Super-Messiah.github.io/post/20190507-useful-links-in-computer-science/</link>
       <pubDate>Tue, 07 May 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://super-messiah.github.io/post/20190507-useful-links-in-computer-science/</guid>
+      <guid>https://Super-Messiah.github.io/post/20190507-useful-links-in-computer-science/</guid>
       <description>
 
 &lt;h2 id=&#34;website-resources&#34;&gt;Website resources&lt;/h2&gt;
@@ -974,10 +974,10 @@ source $HOME/intel/composer_xe_2015.0.090/mkl/bin/mklvars.sh intel64
     
     <item>
       <title>Website generators</title>
-      <link>https://super-messiah.github.io/post/20190507-website-generators/</link>
+      <link>https://Super-Messiah.github.io/post/20190507-website-generators/</link>
       <pubDate>Tue, 07 May 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://super-messiah.github.io/post/20190507-website-generators/</guid>
+      <guid>https://Super-Messiah.github.io/post/20190507-website-generators/</guid>
       <description>
 
 &lt;p&gt;Static site generators focus on one main task: generate a complete static HTML-based site. This result does not rely on databases or other external data sources and therewith avoid any server-side processing when accessing the website.&lt;/p&gt;
@@ -1014,10 +1014,10 @@ source $HOME/intel/composer_xe_2015.0.090/mkl/bin/mklvars.sh intel64
     
     <item>
       <title>Useful links in Applied Mathematics</title>
-      <link>https://super-messiah.github.io/post/20190506-useful-links-in-applied-mathematics/</link>
+      <link>https://Super-Messiah.github.io/post/20190506-useful-links-in-applied-mathematics/</link>
       <pubDate>Mon, 06 May 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://super-messiah.github.io/post/20190506-useful-links-in-applied-mathematics/</guid>
+      <guid>https://Super-Messiah.github.io/post/20190506-useful-links-in-applied-mathematics/</guid>
       <description>
 
 &lt;h2 id=&#34;applied-mathematicians&#34;&gt;Applied mathematicians&lt;/h2&gt;
@@ -1086,10 +1086,10 @@ source $HOME/intel/composer_xe_2015.0.090/mkl/bin/mklvars.sh intel64
     
     <item>
       <title>Useful links in Geophysics</title>
-      <link>https://super-messiah.github.io/post/20190503-useful-links-in-geophysics/</link>
+      <link>https://Super-Messiah.github.io/post/20190503-useful-links-in-geophysics/</link>
       <pubDate>Fri, 03 May 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://super-messiah.github.io/post/20190503-useful-links-in-geophysics/</guid>
+      <guid>https://Super-Messiah.github.io/post/20190503-useful-links-in-geophysics/</guid>
       <description>
 
 &lt;h2 id=&#34;geophysicists&#34;&gt;Geophysicists&lt;/h2&gt;
@@ -1252,73 +1252,73 @@ source $HOME/intel/composer_xe_2015.0.090/mkl/bin/mklvars.sh intel64
     
     <item>
       <title>$Q$-compensated viscoelastic reverse-time migration using mode-dependent adaptive stabilization scheme</title>
-      <link>https://super-messiah.github.io/publication/staqertm/</link>
+      <link>https://Super-Messiah.github.io/publication/staqertm/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 -0700</pubDate>
       
-      <guid>https://super-messiah.github.io/publication/staqertm/</guid>
+      <guid>https://Super-Messiah.github.io/publication/staqertm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>  Seismic attenuation models: multiple and fractional generalizations</title>
-      <link>https://super-messiah.github.io/talk/2019-swp-4/</link>
+      <link>https://Super-Messiah.github.io/talk/2019-swp-4/</link>
       <pubDate>Tue, 05 Mar 2019 10:00:00 -0800</pubDate>
       
-      <guid>https://super-messiah.github.io/talk/2019-swp-4/</guid>
+      <guid>https://Super-Messiah.github.io/talk/2019-swp-4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A generalized stabilization scheme for seismic Q compensation</title>
-      <link>https://super-messiah.github.io/talk/2019-swp-3/</link>
+      <link>https://Super-Messiah.github.io/talk/2019-swp-3/</link>
       <pubDate>Tue, 29 Jan 2019 10:00:00 -0800</pubDate>
       
-      <guid>https://super-messiah.github.io/talk/2019-swp-3/</guid>
+      <guid>https://Super-Messiah.github.io/talk/2019-swp-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cu$Q$-RTM: A CUDA-based code package for stable and efficient $Q$-compensated RTM</title>
-      <link>https://super-messiah.github.io/publication/cuqrtm/</link>
+      <link>https://Super-Messiah.github.io/publication/cuqrtm/</link>
       <pubDate>Fri, 21 Dec 2018 00:00:00 -0800</pubDate>
       
-      <guid>https://super-messiah.github.io/publication/cuqrtm/</guid>
+      <guid>https://Super-Messiah.github.io/publication/cuqrtm/</guid>
       <description></description>
     </item>
     
     <item>
       <title> Seismic attenuation compensation via inversion and imaging</title>
-      <link>https://super-messiah.github.io/talk/2018-swp-2/</link>
+      <link>https://Super-Messiah.github.io/talk/2018-swp-2/</link>
       <pubDate>Fri, 30 Nov 2018 10:00:00 -0800</pubDate>
       
-      <guid>https://super-messiah.github.io/talk/2018-swp-2/</guid>
+      <guid>https://Super-Messiah.github.io/talk/2018-swp-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An overview of fractional attenuation models in exploration geophysics</title>
-      <link>https://super-messiah.github.io/talk/2018-swp-1/</link>
+      <link>https://Super-Messiah.github.io/talk/2018-swp-1/</link>
       <pubDate>Tue, 06 Nov 2018 10:00:00 -0800</pubDate>
       
-      <guid>https://super-messiah.github.io/talk/2018-swp-1/</guid>
+      <guid>https://Super-Messiah.github.io/talk/2018-swp-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>$L_{1−2}$ minimization for exact and stable seismic attenuation compensation</title>
-      <link>https://super-messiah.github.io/publication/l1-2minimization/</link>
+      <link>https://Super-Messiah.github.io/publication/l1-2minimization/</link>
       <pubDate>Mon, 19 Feb 2018 00:00:00 -0800</pubDate>
       
-      <guid>https://super-messiah.github.io/publication/l1-2minimization/</guid>
+      <guid>https://Super-Messiah.github.io/publication/l1-2minimization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive stabilization for $Q$-compensated reverse time migration</title>
-      <link>https://super-messiah.github.io/publication/staqrtm/</link>
+      <link>https://Super-Messiah.github.io/publication/staqrtm/</link>
       <pubDate>Tue, 14 Nov 2017 00:00:00 -0800</pubDate>
       
-      <guid>https://super-messiah.github.io/publication/staqrtm/</guid>
+      <guid>https://Super-Messiah.github.io/publication/staqrtm/</guid>
       <description>
 
 &lt;h2 id=&#34;highlights&#34;&gt;Highlights&lt;/h2&gt;
@@ -1329,19 +1329,19 @@ source $HOME/intel/composer_xe_2015.0.090/mkl/bin/mklvars.sh intel64
     
     <item>
       <title>Three-Operator Proximal Splitting Scheme for 3-D Seismic Data Reconstruction</title>
-      <link>https://super-messiah.github.io/publication/tops/</link>
+      <link>https://Super-Messiah.github.io/publication/tops/</link>
       <pubDate>Tue, 29 Aug 2017 00:00:00 -0700</pubDate>
       
-      <guid>https://super-messiah.github.io/publication/tops/</guid>
+      <guid>https://Super-Messiah.github.io/publication/tops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My Journey on Madagascar and Reproducible Research</title>
-      <link>https://super-messiah.github.io/talk/2017-madagascar/</link>
+      <link>https://Super-Messiah.github.io/talk/2017-madagascar/</link>
       <pubDate>Tue, 11 Jul 2017 16:00:00 -0700</pubDate>
       
-      <guid>https://super-messiah.github.io/talk/2017-madagascar/</guid>
+      <guid>https://Super-Messiah.github.io/talk/2017-madagascar/</guid>
       <description></description>
     </item>
     

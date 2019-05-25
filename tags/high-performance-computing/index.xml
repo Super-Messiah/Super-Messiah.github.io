@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>High-performance computing on Yufeng Wang</title>
-    <link>https://super-messiah.github.io/tags/high-performance-computing/</link>
+    <link>https://Super-Messiah.github.io/tags/high-performance-computing/</link>
     <description>Recent content in High-performance computing on Yufeng Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 - {year} Yufeng Wang</copyright>
     <lastBuildDate>Thu, 02 May 2019 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="https://super-messiah.github.io/tags/high-performance-computing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Super-Messiah.github.io/tags/high-performance-computing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>High-performance computing</title>
-      <link>https://super-messiah.github.io/project/high-performance-computing/</link>
+      <link>https://Super-Messiah.github.io/project/high-performance-computing/</link>
       <pubDate>Thu, 02 May 2019 00:00:00 -0700</pubDate>
       
-      <guid>https://super-messiah.github.io/project/high-performance-computing/</guid>
+      <guid>https://Super-Messiah.github.io/project/high-performance-computing/</guid>
       <description>The intensive computation and enormous storage requirements of wave equation-based processing, such as RTM and FWI, prevent these methods from being extended into practical application, especially for large-scale 2D or 3D case. The emerging graphics processing unit (GPU) computing technology, built around a scalable array of multithreaded Streaming Multiprocessors (SMs), presents an opportunity for greatly accelerating seismic data processing by appropriately exploiting GPU’s architectural characteristics.</description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>geophysics on Yufeng Wang</title>
-    <link>https://super-messiah.github.io/tags/geophysics/</link>
+    <link>https://Super-Messiah.github.io/tags/geophysics/</link>
     <description>Recent content in geophysics on Yufeng Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 - {year} Yufeng Wang</copyright>
     <lastBuildDate>Fri, 03 May 2019 09:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://super-messiah.github.io/tags/geophysics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Super-Messiah.github.io/tags/geophysics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Useful links in Geophysics</title>
-      <link>https://super-messiah.github.io/post/20190503-useful-links-in-geophysics/</link>
+      <link>https://Super-Messiah.github.io/post/20190503-useful-links-in-geophysics/</link>
       <pubDate>Fri, 03 May 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://super-messiah.github.io/post/20190503-useful-links-in-geophysics/</guid>
+      <guid>https://Super-Messiah.github.io/post/20190503-useful-links-in-geophysics/</guid>
       <description>Here I list some useful links in geophysics, which contains profiles of geophysicists, academic group, open source softwares and data.</description>
     </item>
     

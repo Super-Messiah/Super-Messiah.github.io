@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Yufeng Wang</title>
-    <link>https://super-messiah.github.io/talk/</link>
+    <link>https://Super-Messiah.github.io/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Yufeng Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 - {year} Yufeng Wang</copyright>
     <lastBuildDate>Tue, 05 Mar 2019 10:00:00 -0800</lastBuildDate>
     
-	<atom:link href="https://super-messiah.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Super-Messiah.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>  Seismic attenuation models: multiple and fractional generalizations</title>
-      <link>https://super-messiah.github.io/talk/2019-swp-4/</link>
+      <link>https://Super-Messiah.github.io/talk/2019-swp-4/</link>
       <pubDate>Tue, 05 Mar 2019 10:00:00 -0800</pubDate>
       
-      <guid>https://super-messiah.github.io/talk/2019-swp-4/</guid>
+      <guid>https://Super-Messiah.github.io/talk/2019-swp-4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A generalized stabilization scheme for seismic Q compensation</title>
-      <link>https://super-messiah.github.io/talk/2019-swp-3/</link>
+      <link>https://Super-Messiah.github.io/talk/2019-swp-3/</link>
       <pubDate>Tue, 29 Jan 2019 10:00:00 -0800</pubDate>
       
-      <guid>https://super-messiah.github.io/talk/2019-swp-3/</guid>
+      <guid>https://Super-Messiah.github.io/talk/2019-swp-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title> Seismic attenuation compensation via inversion and imaging</title>
-      <link>https://super-messiah.github.io/talk/2018-swp-2/</link>
+      <link>https://Super-Messiah.github.io/talk/2018-swp-2/</link>
       <pubDate>Fri, 30 Nov 2018 10:00:00 -0800</pubDate>
       
-      <guid>https://super-messiah.github.io/talk/2018-swp-2/</guid>
+      <guid>https://Super-Messiah.github.io/talk/2018-swp-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An overview of fractional attenuation models in exploration geophysics</title>
-      <link>https://super-messiah.github.io/talk/2018-swp-1/</link>
+      <link>https://Super-Messiah.github.io/talk/2018-swp-1/</link>
       <pubDate>Tue, 06 Nov 2018 10:00:00 -0800</pubDate>
       
-      <guid>https://super-messiah.github.io/talk/2018-swp-1/</guid>
+      <guid>https://Super-Messiah.github.io/talk/2018-swp-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My Journey on Madagascar and Reproducible Research</title>
-      <link>https://super-messiah.github.io/talk/2017-madagascar/</link>
+      <link>https://Super-Messiah.github.io/talk/2017-madagascar/</link>
       <pubDate>Tue, 11 Jul 2017 16:00:00 -0700</pubDate>
       
-      <guid>https://super-messiah.github.io/talk/2017-madagascar/</guid>
+      <guid>https://Super-Messiah.github.io/talk/2017-madagascar/</guid>
       <description></description>
     </item>
     
