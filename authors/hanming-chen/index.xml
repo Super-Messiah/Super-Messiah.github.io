@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hanming Chen on Yufeng Wang</title>
-    <link>https://Super-Messiah.github.io/authors/hanming-chen/</link>
+    <link>https://yufengwa.github.io/authors/hanming-chen/</link>
     <description>Recent content in Hanming Chen on Yufeng Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 - {year} Yufeng Wang</copyright>
-    <lastBuildDate>Tue, 14 Nov 2017 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 14 Nov 2017 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="https://Super-Messiah.github.io/authors/hanming-chen/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yufengwa.github.io/authors/hanming-chen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Adaptive stabilization for $Q$-compensated reverse time migration</title>
-      <link>https://Super-Messiah.github.io/publication/staqrtm/</link>
-      <pubDate>Tue, 14 Nov 2017 00:00:00 -0800</pubDate>
+      <link>https://yufengwa.github.io/publication/staqrtm/</link>
+      <pubDate>Tue, 14 Nov 2017 00:00:00 +0800</pubDate>
       
-      <guid>https://Super-Messiah.github.io/publication/staqrtm/</guid>
+      <guid>https://yufengwa.github.io/publication/staqrtm/</guid>
       <description>We develop a novel adaptive stabilization method for $Q$-compensated RTM ($Q$-RTM), which exhibits superior properties of time-variance and $Q$-dependence over conventional low-pass filtering based method. We derive the stabilization operator by first analytically derive k-space Green&amp;rsquo;s functions for constant-$Q$ wave equation with decoupled fractional Laplacians (DFLs) and its compensated equation.</description>
     </item>
     

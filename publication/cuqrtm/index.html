@@ -30,7 +30,7 @@
   <meta name="description" content="Reverse time migration (RTM) in attenuating media should take the absorption and dispersion effects into consideration. The latest proposed viscoacoustic wave equation with decoupled fractional Laplacians (DFLs) facilitates separate amplitude compensation and phase correction in $Q$-compensated RTM ($Q$-RTM). However, intensive computation and enormous storage requirements of $Q$-RTM prevent it from being extended into practical application, especially for large-scale 2D or 3D case. The emerging graphics processing unit (GPU) computing technology, built around a scalable array of multithreaded Streaming Multiprocessors (SMs), presents an opportunity for greatly accelerating $Q$-RTM by appropriately exploiting GPU&#39;s architectural characteristics. We present the cu$Q$-RTM, a CUDA-based code package that implements $Q$-RTM based on a set of stable and efficient strategies, such as streamed CUFFT, checkpointing-assisted time-reversal reconstruction (CATRC) and adaptive stabilization. The cu$Q$-RTM can run in a multi-level parallelism (MLP) fashion, either synchronously or asynchronously, to take advantages of all the CPUs and GPUs available, while maintaining impressively good stability and flexibility. We mainly outline the architecture of the cu$Q$-RTM code package and some program optimization schemes. The speedup ratio on a single GeForce GTX760 GPU card relative to a single core of Intel Core i5-4460 CPU can reach above 80 in large-scale simulation. The strong scaling property of multi-GPU parallelism is demonstrated by performing $Q$-RTM on a Marmousi model with one to six GPU(s) involved. Finally, we further verify the feasibility and efficiency of the cu$Q$-RTM on a field data set.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://Super-Messiah.github.io/publication/cuqrtm/">
+  <link rel="alternate" hreflang="en-us" href="https://yufengwa.github.io/publication/cuqrtm/">
 
   
 
@@ -97,7 +97,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://Super-Messiah.github.io/publication/cuqrtm/">
+  <link rel="canonical" href="https://yufengwa.github.io/publication/cuqrtm/">
 
   
   
@@ -109,14 +109,14 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Yufeng Wang">
-  <meta property="og:url" content="https://Super-Messiah.github.io/publication/cuqrtm/">
+  <meta property="og:url" content="https://yufengwa.github.io/publication/cuqrtm/">
   <meta property="og:title" content="Cu$Q$-RTM: A CUDA-based code package for stable and efficient $Q$-compensated RTM | Yufeng Wang">
-  <meta property="og:description" content="Reverse time migration (RTM) in attenuating media should take the absorption and dispersion effects into consideration. The latest proposed viscoacoustic wave equation with decoupled fractional Laplacians (DFLs) facilitates separate amplitude compensation and phase correction in $Q$-compensated RTM ($Q$-RTM). However, intensive computation and enormous storage requirements of $Q$-RTM prevent it from being extended into practical application, especially for large-scale 2D or 3D case. The emerging graphics processing unit (GPU) computing technology, built around a scalable array of multithreaded Streaming Multiprocessors (SMs), presents an opportunity for greatly accelerating $Q$-RTM by appropriately exploiting GPU&#39;s architectural characteristics. We present the cu$Q$-RTM, a CUDA-based code package that implements $Q$-RTM based on a set of stable and efficient strategies, such as streamed CUFFT, checkpointing-assisted time-reversal reconstruction (CATRC) and adaptive stabilization. The cu$Q$-RTM can run in a multi-level parallelism (MLP) fashion, either synchronously or asynchronously, to take advantages of all the CPUs and GPUs available, while maintaining impressively good stability and flexibility. We mainly outline the architecture of the cu$Q$-RTM code package and some program optimization schemes. The speedup ratio on a single GeForce GTX760 GPU card relative to a single core of Intel Core i5-4460 CPU can reach above 80 in large-scale simulation. The strong scaling property of multi-GPU parallelism is demonstrated by performing $Q$-RTM on a Marmousi model with one to six GPU(s) involved. Finally, we further verify the feasibility and efficiency of the cu$Q$-RTM on a field data set."><meta property="og:image" content="https://Super-Messiah.github.io/img/icon-192.png">
+  <meta property="og:description" content="Reverse time migration (RTM) in attenuating media should take the absorption and dispersion effects into consideration. The latest proposed viscoacoustic wave equation with decoupled fractional Laplacians (DFLs) facilitates separate amplitude compensation and phase correction in $Q$-compensated RTM ($Q$-RTM). However, intensive computation and enormous storage requirements of $Q$-RTM prevent it from being extended into practical application, especially for large-scale 2D or 3D case. The emerging graphics processing unit (GPU) computing technology, built around a scalable array of multithreaded Streaming Multiprocessors (SMs), presents an opportunity for greatly accelerating $Q$-RTM by appropriately exploiting GPU&#39;s architectural characteristics. We present the cu$Q$-RTM, a CUDA-based code package that implements $Q$-RTM based on a set of stable and efficient strategies, such as streamed CUFFT, checkpointing-assisted time-reversal reconstruction (CATRC) and adaptive stabilization. The cu$Q$-RTM can run in a multi-level parallelism (MLP) fashion, either synchronously or asynchronously, to take advantages of all the CPUs and GPUs available, while maintaining impressively good stability and flexibility. We mainly outline the architecture of the cu$Q$-RTM code package and some program optimization schemes. The speedup ratio on a single GeForce GTX760 GPU card relative to a single core of Intel Core i5-4460 CPU can reach above 80 in large-scale simulation. The strong scaling property of multi-GPU parallelism is demonstrated by performing $Q$-RTM on a Marmousi model with one to six GPU(s) involved. Finally, we further verify the feasibility and efficiency of the cu$Q$-RTM on a field data set."><meta property="og:image" content="https://yufengwa.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2018-12-21T00:00:00-08:00">
+  <meta property="article:published_time" content="2018-12-21T00:00:00&#43;08:00">
   
-  <meta property="article:modified_time" content="2018-12-21T00:00:00-08:00">
+  <meta property="article:modified_time" content="2018-12-21T00:00:00&#43;08:00">
   
 
   
@@ -385,8 +385,8 @@
 
 
 
-<meta content="2018-12-21 00:00:00 -0800 PST" itemprop="datePublished">
-<meta content="2018-12-21 00:00:00 -0800 PST" itemprop="dateModified">
+<meta content="2018-12-21 00:00:00 &#43;0800 CST" itemprop="datePublished">
+<meta content="2018-12-21 00:00:00 &#43;0800 CST" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -702,7 +702,7 @@
   
 
   <p class="powered-by">
-    &copy; 2017 - 2019 Yufeng Wang &middot; 
+    &copy; 2017 - 2020 Yufeng Wang &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

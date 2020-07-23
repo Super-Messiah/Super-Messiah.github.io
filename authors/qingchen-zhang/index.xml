@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qingchen Zhang on Yufeng Wang</title>
-    <link>https://Super-Messiah.github.io/authors/qingchen-zhang/</link>
+    <link>https://yufengwa.github.io/authors/qingchen-zhang/</link>
     <description>Recent content in Qingchen Zhang on Yufeng Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 - {year} Yufeng Wang</copyright>
-    <lastBuildDate>Fri, 29 Mar 2019 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2019 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="https://Super-Messiah.github.io/authors/qingchen-zhang/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yufengwa.github.io/authors/qingchen-zhang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>$Q$-compensated viscoelastic reverse-time migration using mode-dependent adaptive stabilization scheme</title>
-      <link>https://Super-Messiah.github.io/publication/staqertm/</link>
-      <pubDate>Fri, 29 Mar 2019 00:00:00 -0700</pubDate>
+      <link>https://yufengwa.github.io/publication/staqertm/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0800</pubDate>
       
-      <guid>https://Super-Messiah.github.io/publication/staqertm/</guid>
+      <guid>https://yufengwa.github.io/publication/staqertm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cu$Q$-RTM: A CUDA-based code package for stable and efficient $Q$-compensated RTM</title>
-      <link>https://Super-Messiah.github.io/publication/cuqrtm/</link>
-      <pubDate>Fri, 21 Dec 2018 00:00:00 -0800</pubDate>
+      <link>https://yufengwa.github.io/publication/cuqrtm/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0800</pubDate>
       
-      <guid>https://Super-Messiah.github.io/publication/cuqrtm/</guid>
+      <guid>https://yufengwa.github.io/publication/cuqrtm/</guid>
       <description></description>
     </item>
     

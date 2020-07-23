@@ -2,121 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Yufeng Wang</title>
-    <link>https://Super-Messiah.github.io/tags/</link>
+    <link>https://yufengwa.github.io/tags/</link>
     <description>Recent content in Tags on Yufeng Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 - {year} Yufeng Wang</copyright>
     <lastBuildDate>Thu, 16 May 2019 09:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://Super-Messiah.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yufengwa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>online</title>
-      <link>https://Super-Messiah.github.io/tags/online/</link>
+      <link>https://yufengwa.github.io/tags/online/</link>
       <pubDate>Thu, 16 May 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://Super-Messiah.github.io/tags/online/</guid>
+      <guid>https://yufengwa.github.io/tags/online/</guid>
       <description></description>
     </item>
     
     <item>
       <title>softwares</title>
-      <link>https://Super-Messiah.github.io/tags/softwares/</link>
+      <link>https://yufengwa.github.io/tags/softwares/</link>
       <pubDate>Wed, 08 May 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://Super-Messiah.github.io/tags/softwares/</guid>
+      <guid>https://yufengwa.github.io/tags/softwares/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tools</title>
-      <link>https://Super-Messiah.github.io/tags/tools/</link>
+      <link>https://yufengwa.github.io/tags/tools/</link>
       <pubDate>Wed, 08 May 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://Super-Messiah.github.io/tags/tools/</guid>
+      <guid>https://yufengwa.github.io/tags/tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cs</title>
-      <link>https://Super-Messiah.github.io/tags/cs/</link>
+      <link>https://yufengwa.github.io/tags/cs/</link>
       <pubDate>Tue, 07 May 2019 22:08:03 -0700</pubDate>
       
-      <guid>https://Super-Messiah.github.io/tags/cs/</guid>
+      <guid>https://yufengwa.github.io/tags/cs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>deep learning</title>
-      <link>https://Super-Messiah.github.io/tags/deep-learning/</link>
+      <link>https://yufengwa.github.io/tags/deep-learning/</link>
       <pubDate>Tue, 07 May 2019 22:08:03 -0700</pubDate>
       
-      <guid>https://Super-Messiah.github.io/tags/deep-learning/</guid>
+      <guid>https://yufengwa.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>website</title>
-      <link>https://Super-Messiah.github.io/tags/website/</link>
+      <link>https://yufengwa.github.io/tags/website/</link>
       <pubDate>Tue, 07 May 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://Super-Messiah.github.io/tags/website/</guid>
+      <guid>https://yufengwa.github.io/tags/website/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mathematics</title>
-      <link>https://Super-Messiah.github.io/tags/mathematics/</link>
+      <link>https://yufengwa.github.io/tags/mathematics/</link>
       <pubDate>Mon, 06 May 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://Super-Messiah.github.io/tags/mathematics/</guid>
+      <guid>https://yufengwa.github.io/tags/mathematics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>geophysics</title>
-      <link>https://Super-Messiah.github.io/tags/geophysics/</link>
+      <link>https://yufengwa.github.io/tags/geophysics/</link>
       <pubDate>Fri, 03 May 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://Super-Messiah.github.io/tags/geophysics/</guid>
+      <guid>https://yufengwa.github.io/tags/geophysics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-performance computing</title>
-      <link>https://Super-Messiah.github.io/tags/high-performance-computing/</link>
-      <pubDate>Thu, 02 May 2019 00:00:00 -0700</pubDate>
+      <link>https://yufengwa.github.io/tags/high-performance-computing/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0800</pubDate>
       
-      <guid>https://Super-Messiah.github.io/tags/high-performance-computing/</guid>
+      <guid>https://yufengwa.github.io/tags/high-performance-computing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seismic Q compensation</title>
-      <link>https://Super-Messiah.github.io/tags/seismic-q-compensation/</link>
-      <pubDate>Thu, 02 May 2019 00:00:00 -0700</pubDate>
+      <link>https://yufengwa.github.io/tags/seismic-q-compensation/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0800</pubDate>
       
-      <guid>https://Super-Messiah.github.io/tags/seismic-q-compensation/</guid>
+      <guid>https://yufengwa.github.io/tags/seismic-q-compensation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seismic signal processing</title>
-      <link>https://Super-Messiah.github.io/tags/seismic-signal-processing/</link>
-      <pubDate>Thu, 02 May 2019 00:00:00 -0700</pubDate>
+      <link>https://yufengwa.github.io/tags/seismic-signal-processing/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0800</pubDate>
       
-      <guid>https://Super-Messiah.github.io/tags/seismic-signal-processing/</guid>
+      <guid>https://yufengwa.github.io/tags/seismic-signal-processing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seismic attenuation models</title>
-      <link>https://Super-Messiah.github.io/tags/seismic-attenuation-models/</link>
+      <link>https://yufengwa.github.io/tags/seismic-attenuation-models/</link>
       <pubDate>Sun, 29 Apr 2018 21:03:21 +0800</pubDate>
       
-      <guid>https://Super-Messiah.github.io/tags/seismic-attenuation-models/</guid>
+      <guid>https://yufengwa.github.io/tags/seismic-attenuation-models/</guid>
       <description></description>
     </item>
     

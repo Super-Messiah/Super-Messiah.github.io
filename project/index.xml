@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Yufeng Wang</title>
-    <link>https://Super-Messiah.github.io/project/</link>
+    <link>https://yufengwa.github.io/project/</link>
     <description>Recent content in Projects on Yufeng Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 - {year} Yufeng Wang</copyright>
-    <lastBuildDate>Thu, 02 May 2019 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2019 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="https://Super-Messiah.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yufengwa.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Seismic attenuation models</title>
-      <link>https://Super-Messiah.github.io/project/seismic-attenuation-models/</link>
+      <link>https://yufengwa.github.io/project/seismic-attenuation-models/</link>
       <pubDate>Sun, 29 Apr 2018 21:03:21 +0800</pubDate>
       
-      <guid>https://Super-Messiah.github.io/project/seismic-attenuation-models/</guid>
+      <guid>https://yufengwa.github.io/project/seismic-attenuation-models/</guid>
       <description>Frequency-dependent absorption and dispersion caused by the anelasticity of subsurface media can be empirically characterized either by experimentally established frequency power law or by physically based mechanical models over a wide range of frequencies. I try to figure out the connections among different attenuation models from both mathematical and physical viewpoints.</description>
     </item>
     
     <item>
       <title>Seismic $Q$ compensation</title>
-      <link>https://Super-Messiah.github.io/project/seismic-q-compensation/</link>
-      <pubDate>Thu, 02 May 2019 00:00:00 -0700</pubDate>
+      <link>https://yufengwa.github.io/project/seismic-q-compensation/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0800</pubDate>
       
-      <guid>https://Super-Messiah.github.io/project/seismic-q-compensation/</guid>
+      <guid>https://yufengwa.github.io/project/seismic-q-compensation/</guid>
       <description>Seismic attenuation compensation is an important method to enhance signal resolution and fidelity, which can be performed on either prestack or poststack data. I aim at developing the state-of-the-art algorithms and general framework that includes seismic inversion and imaging schemes to compensate the subsurface $Q$ filtering effects.</description>
     </item>
     
     <item>
       <title>High-performance computing</title>
-      <link>https://Super-Messiah.github.io/project/high-performance-computing/</link>
-      <pubDate>Thu, 02 May 2019 00:00:00 -0700</pubDate>
+      <link>https://yufengwa.github.io/project/high-performance-computing/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0800</pubDate>
       
-      <guid>https://Super-Messiah.github.io/project/high-performance-computing/</guid>
+      <guid>https://yufengwa.github.io/project/high-performance-computing/</guid>
       <description>The intensive computation and enormous storage requirements of wave equation-based processing, such as RTM and FWI, prevent these methods from being extended into practical application, especially for large-scale 2D or 3D case. The emerging graphics processing unit (GPU) computing technology, built around a scalable array of multithreaded Streaming Multiprocessors (SMs), presents an opportunity for greatly accelerating seismic data processing by appropriately exploiting GPU’s architectural characteristics.</description>
     </item>
     
     <item>
       <title>Seismic signal processing</title>
-      <link>https://Super-Messiah.github.io/project/seismic-signal-processing/</link>
-      <pubDate>Thu, 02 May 2019 00:00:00 -0700</pubDate>
+      <link>https://yufengwa.github.io/project/seismic-signal-processing/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0800</pubDate>
       
-      <guid>https://Super-Messiah.github.io/project/seismic-signal-processing/</guid>
+      <guid>https://yufengwa.github.io/project/seismic-signal-processing/</guid>
       <description>If you step deep into applied mathematics, you will find many great algorithms, such as Compressed Sensing, Dictionary Learning, Operator Splitting, and Nonconvex Optimization, developed by brilliant applied mathematicians. I apply and improve these algorithms to process seismic data.</description>
     </item>
     
     <item>
       <title>Deep learning</title>
-      <link>https://Super-Messiah.github.io/project/deep-learning/</link>
-      <pubDate>Thu, 02 May 2019 00:00:00 -0700</pubDate>
+      <link>https://yufengwa.github.io/project/deep-learning/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0800</pubDate>
       
-      <guid>https://Super-Messiah.github.io/project/deep-learning/</guid>
+      <guid>https://yufengwa.github.io/project/deep-learning/</guid>
       <description>The task of training a deep learning algorithm to accurately identify a nonlinear map from a few and potentially very high-dimensional input and output data pairs seems at best naive. Coming to our rescue, for many cases pertaining to the modeling of physical systems, there exists a vast amount of prior knowledge such as the principled physical laws that govern the time-dependent dynamics of a system. Encoding such structured information into a learning algorithm results in amplifying the information content of the data that the algorithm sees, enabling it to quickly steer itself towards the right solution and generalize well even when only a few training examples are available.</description>
     </item>
     
